@@ -20,6 +20,7 @@
     "@amcharts/amcharts4": "^4.7.10",
     "@amcharts/amcharts4-geodata": "^4.1.9",
     "canvas": "^2.6.0",
+    "highcharts": "^7.2.1",
     "jsdom": "^13.2.0",
     "xmldom": "^0.1.27"
   }
