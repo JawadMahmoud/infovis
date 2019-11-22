@@ -1,0 +1,26 @@
+{
+  "name": "infovis_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JawadMahmoud/infovis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JawadMahmoud/infovis/issues"
+  },
+  "homepage": "https://github.com/JawadMahmoud/infovis#readme",
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.7.10",
+    "@amcharts/amcharts4-geodata": "^4.1.9",
+    "canvas": "^2.6.0",
+    "jsdom": "^13.2.0",
+    "xmldom": "^0.1.27"
+  }
+}
