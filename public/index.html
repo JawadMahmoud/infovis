@@ -9,9 +9,23 @@
     <script src="https://www.amcharts.com/lib/4/maps.js"></script>
     <script src="https://www.amcharts.com/lib/4/geodata/worldHigh.js"></script>
     <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- <script src="lodash.js"></script> -->
     <link rel="stylesheet" type="text/css" href="../styles/main.css" />
+
+    <script src="../Highcharts-7.2.1/code/highcharts.js"></script>
+    <script src="../Highcharts-7.2.1/code/highcharts-more.js"></script>
+    <script src="../Highcharts-7.2.1/code/modules/exporting.js"></script>
+    <script src="../Highcharts-7.2.1/code/modules/solid-gauge.js"></script>
+    <script src="../Highcharts-7.2.1/code/modules/export-data.js"></script>
+    <script src="../Highcharts-7.2.1/code/modules/accessibility.js"></script>
   </head>
 
   <body>
@@ -25,7 +39,124 @@
       <a id="switchUse">Use</a>
       <a id="switchDeath">Risk</a>
     </div>
+
+    <div class="btn-group">
+      <button type="button" class="btn btn-primary">government</button>
+      <button
+        type="button"
+        class="btn btn-primary dropdown-toggle"
+        data-toggle="dropdown"
+      >
+        <span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu" role="menu">
+        <button
+          type="button"
+          onclick="government('2014')"
+          class="btn btn-primary"
+        >
+          2014
+        </button>
+        <button
+          type="button"
+          onclick="government('2008')"
+          class="btn btn-primary"
+        >
+          2008
+        </button>
+        <button
+          type="button"
+          onclick="governmentComp('2014')"
+          class="btn btn-primary"
+        >
+          Compliance in 2014
+        </button>
+        <button
+          type="button"
+          onclick="governmentComp('2010')"
+          class="btn btn-primary"
+        >
+          Compliance in 2010
+        </button>
+      </ul>
+    </div>
+
+    <div class="btn-group">
+      <button type="button" class="btn btn-primary">advertisers</button>
+      <button
+        type="button"
+        class="btn btn-primary dropdown-toggle"
+        data-toggle="dropdown"
+      >
+        <span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu" role="menu">
+        <button
+          type="button"
+          onclick="advertisers('2014')"
+          class="btn btn-secondary"
+        >
+          2014
+        </button>
+        <button
+          type="button"
+          onclick="advertisers('2007')"
+          class="btn btn-secondary"
+        >
+          2007
+        </button>
+      </ul>
+    </div>
+
+    <figure class="highcharts-figure">
+      <div id="container2"></div>
+      <div class="dropdown">
+        <button
+          class="btn btn-secondary dropdown-toggle"
+          type="button"
+          id="dropdownMenuButton"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+        >
+          Dropdown button
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a class="dropdown-item" onclick="solidgauge('Argentina')"
+            >Argentina</a
+          >
+          <a
+            class="dropdown-item"
+            onclick="solidgauge('United States of America')"
+            >United States of America</a
+          >
+          <a class="dropdown-item" onclick="solidgauge('United Kingdom')"
+            >United Kingdom</a
+          >
+        </div>
+      </div>
+    </figure>
+    <div id="container"></div>
+
     <script src="../src/data.js"></script>
     <script src="../src/mainMap.js"></script>
+    <script type="text/javascript" src="../src/index.js"></script>
+
+    <!--<script src="../src/index.js"></script>-->
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
