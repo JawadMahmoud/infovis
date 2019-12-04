@@ -3,7 +3,7 @@ import csv
 c_list = []
 value_list= []
 consumption_c= []
-
+year = ' 2010'
 series = {'series': [{'name': 'Only government objectives on tobacco control exist', 'data' : []},
                      {'name': 'Only national agency for tobacco control exists', 'data' : []},
                      {'name': 'Both exist', 'data' : []},
@@ -31,13 +31,13 @@ with open('../src/data/control.csv') as csv_file:
             line_count += 1
         else:
             #print(f'\t{row[0]}  {row[1]} {row[2]}.')
-            if row[0] in consumption_c and row[1] == ' 2014' and row[2] == 'Yes' and row[3] == 'No':
+            if row[0] in consumption_c and row[1] == year and row[2] == 'Yes' and row[3] == 'No':
                 series['series'][0]['data'].append({'name' : row[0], 'value' : 5})
-            elif row[0] in consumption_c and row[1] == ' 2014' and row[2] == 'No' and row[3] == 'Yes':
+            elif row[0] in consumption_c and row[1] == year and row[2] == 'No' and row[3] == 'Yes':
                 series['series'][1]['data'].append({'name': row[0], 'value': 5})
-            elif row[0] in consumption_c and row[1] == ' 2014' and row[2] == 'Yes' and row[3] == 'Yes':
+            elif row[0] in consumption_c and row[1] == year and row[2] == 'Yes' and row[3] == 'Yes':
                 series['series'][2]['data'].append({'name': row[0], 'value': 5})
-            elif row[0] in consumption_c and row[1] == ' 2014' and row[2] == 'No' and row[3] == 'No':
+            elif row[0] in consumption_c and row[1] == year and row[2] == 'No' and row[3] == 'No':
                 series['series'][3]['data'].append({'name': row[0], 'value': 5})
 
             line_count += 1
@@ -66,9 +66,9 @@ with open('../src/data/ads.csv') as csv_file:
             #print(f'\t{row[0]}  {row[1]} {row[2]}.')
 
 
-            if row[0] in consumption_c and row[1] == ' 2014' and row[6] == 'Yes':
+            if row[0] in consumption_c and row[1] == year and row[6] == 'Yes':
                 series2['series'][0]['data'].append({'name' : row[0], 'value' : 5})
-            elif row[0] in consumption_c and row[1] == ' 2014' and row[6] == 'No' :
+            elif row[0] in consumption_c and row[1] == year and row[6] == 'No' :
                 series2['series'][1]['data'].append({'name': row[0], 'value': 5})
 
 
