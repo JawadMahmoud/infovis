@@ -1,0 +1,2781 @@
+[
+  {
+    "Country": "Albania",
+    "Year": "2015",
+    "Male": "51.2 [37.7-66.2]",
+    "Female": "7.6 [4.9-10.3]",
+    "id": "AL"
+  },
+  {
+    "Country": "Andorra",
+    "Year": "2015",
+    "Male": "37.2 [24.2-49.1]",
+    "Female": "27.8 [18.2-38.4]",
+    "id": "AD"
+  },
+  {
+    "Country": "Argentina",
+    "Year": "2015",
+    "Male": "29.5 [23.4-36.7]",
+    "Female": "18.4 [14.4-23.3]",
+    "id": "AR"
+  },
+  {
+    "Country": "Armenia",
+    "Year": "2015",
+    "Male": "52.3 [41.9-63.2]",
+    "Female": "1.5 [1.2-2.0]",
+    "id": "AM"
+  },
+  {
+    "Country": "Australia",
+    "Year": "2015",
+    "Male": "16.7 [13.4-20.5]",
+    "Female": "13.1 [10.3-15.7]",
+    "id": "AU"
+  },
+  {
+    "Country": "Austria",
+    "Year": "2015",
+    "Male": "35.5 [24.0-49.2]",
+    "Female": "34.8 [20.8-48.4]",
+    "id": "AT"
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": "2015",
+    "Male": "46.5 [22.1-76.3]",
+    "Female": "0.4 [0.2-0.7]",
+    "id": "AZ"
+  },
+  {
+    "Country": "Bahrain",
+    "Year": "2015",
+    "Male": "48.8 [32.1-65.8]",
+    "Female": "7.6 [4.2-11.1]",
+    "id": "BH"
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": "2015",
+    "Male": "39.8 [30.6-50.1]",
+    "Female": "0.7 [0.4-1.0]",
+    "id": "BD"
+  },
+  {
+    "Country": "Barbados",
+    "Year": "2015",
+    "Male": "13.1 [7.1-19.7]",
+    "Female": "0.9 [0.4-1.6]",
+    "id": "BB"
+  },
+  {
+    "Country": "Belarus",
+    "Year": "2015",
+    "Male": "46.2 [35.6-57.0]",
+    "Female": "10.6 [8.0-13.0]",
+    "id": "BY"
+  },
+  {
+    "Country": "Belgium",
+    "Year": "2015",
+    "Male": "26.5 [16.4-37.3]",
+    "Female": "20.0 [12.0-28.2]",
+    "id": "BE"
+  },
+  {
+    "Country": "Benin",
+    "Year": "2015",
+    "Male": "17.7 [12.7-23.1]",
+    "Female": "1.0 [0.6-1.4]",
+    "id": "BJ"
+  },
+  {
+    "Country": "Bolivia (Plurinational State of)",
+    "Year": "2015",
+    "Male": "30.5 [14.7-50.6]",
+    "Female": "17.1 [9.0-26.5]",
+    "id": "BO"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Year": "2015",
+    "Male": "47.2 [32.2-63.3]",
+    "Female": "30.0 [20.0-40.4]",
+    "id": "BA"
+  },
+  {
+    "Country": "Brazil",
+    "Year": "2015",
+    "Male": "19.3 [14.6-24.4]",
+    "Female": "11.3 [8.2-14.6]",
+    "id": "BR"
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Year": "2015",
+    "Male": "29.3 [11.1-51.1]",
+    "Female": "3.1 [1.0-5.7]",
+    "id": "BN"
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": "2015",
+    "Male": "42.4 [32.5-54.6]",
+    "Female": "28.2 [20.2-37.0]",
+    "id": "BG"
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": "2015",
+    "Male": "36.0 [21.7-50.9]",
+    "Female": "4.5 [2.3-7.2]",
+    "id": "BF"
+  },
+  {
+    "Country": "Cabo Verde",
+    "Year": "2015",
+    "Male": "22.2 [12.8-34.2]",
+    "Female": "3.5 [1.9-5.6]",
+    "id": "CV"
+  },
+  {
+    "Country": "Cambodia",
+    "Year": "2015",
+    "Male": "44.1 [30.7-59.4]",
+    "Female": "2.8 [2.1-3.6]",
+    "id": "KH"
+  },
+  {
+    "Country": "Cameroon",
+    "Year": "2015",
+    "Male": "43.8 [27.0-64.7]",
+    "Female": "0.9 [0.4-1.7]",
+    "id": "CM"
+  },
+  {
+    "Country": "Canada",
+    "Year": "2015",
+    "Male": "17.7 [14.5-21.1]",
+    "Female": "12.2 [10.2-14.5]",
+    "id": "CA"
+  },
+  {
+    "Country": "Chile",
+    "Year": "2015",
+    "Male": "40.0 [28.1-53.3]",
+    "Female": "36.0 [26.0-48.2]",
+    "id": "CL"
+  },
+  {
+    "Country": "China",
+    "Year": "2015",
+    "Male": "47.6 [36.7-58.6]",
+    "Female": "1.8 [1.3-2.2]",
+    "id": "CN"
+  },
+  {
+    "Country": "Colombia",
+    "Year": "2015",
+    "Male": "16.0 [7.3-27.6]",
+    "Female": "6.2 [2.8-10.9]",
+    "id": "CO"
+  },
+  {
+    "Country": "Comoros",
+    "Year": "2015",
+    "Male": "23.1 [15.2-31.8]",
+    "Female": "6.0 [3.0-9.7]",
+    "id": "KM"
+  },
+  {
+    "Country": "Congo",
+    "Year": "2015",
+    "Male": "43.2 [29.0-58.9]",
+    "Female": "1.7 [0.8-2.8]",
+    "id": "CG"
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": "2015",
+    "Male": "18.5 [10.2-29.2]",
+    "Female": "8.3 [4.2-13.9]",
+    "id": "CR"
+  },
+  {
+    "Country": "Croatia",
+    "Year": "2015",
+    "Male": "39.4 [28.2-50.1]",
+    "Female": "33.5 [24.9-43.4]",
+    "id": "HR"
+  },
+  {
+    "Country": "Cuba",
+    "Year": "2015",
+    "Male": "52.7 [23.7-91.0]",
+    "Female": "17.8 [7.5-31.8]",
+    "id": "CU"
+  },
+  {
+    "Country": "Czechia",
+    "Year": "2015",
+    "Male": "37.4 [29.3-46.4]",
+    "Female": "29.0 [21.7-36.0]",
+    "id": "CZ"
+  },
+  {
+    "Country": "Denmark",
+    "Year": "2015",
+    "Male": "17.6 [13.4-22.2]",
+    "Female": "16.4 [12.5-20.1]",
+    "id": "DK"
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": "2015",
+    "Male": "18.8 [12.0-26.9]",
+    "Female": "9.4 [5.4-13.3]",
+    "id": "DO"
+  },
+  {
+    "Country": "Ecuador",
+    "Year": "2015",
+    "Male": "14.0 [7.4-21.1]",
+    "Female": "3.3 [1.4-5.3]",
+    "id": "EC"
+  },
+  {
+    "Country": "Egypt",
+    "Year": "2015",
+    "Male": "49.9 [35.0-65.6]",
+    "Female": "0.3 [0.2-0.5]",
+    "id": "EG"
+  },
+  {
+    "Country": "Estonia",
+    "Year": "2015",
+    "Male": "41.2 [32.2-51.1]",
+    "Female": "24.9 [19.2-31.1]",
+    "id": "EE"
+  },
+  {
+    "Country": "Eswatini",
+    "Year": "2015",
+    "Male": "19.0 [13.2-26.7]",
+    "Female": "2.2 [1.3-3.4]",
+    "id": "SZ"
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": "2015",
+    "Male": "8.9 [6.0-12.1]",
+    "Female": "0.5 [0.2-0.8]",
+    "id": "ET"
+  },
+  {
+    "Country": "Fiji",
+    "Year": "2015",
+    "Male": "38.7 [15.1-66.1]",
+    "Female": "12.4 [5.5-21.5]",
+    "id": "FJ"
+  },
+  {
+    "Country": "Finland",
+    "Year": "2015",
+    "Male": "23.2 [18.6-27.6]",
+    "Female": "18.5 [14.6-22.2]",
+    "id": "FI"
+  },
+  {
+    "Country": "France",
+    "Year": "2015",
+    "Male": "29.8 [21.2-38.7]",
+    "Female": "25.6 [18.0-34.4]",
+    "id": "FR"
+  },
+  {
+    "Country": "Georgia",
+    "Year": "2015",
+    "Male": "57.7 [43.0-76.2]",
+    "Female": "5.7 [4.0-7.5]",
+    "id": "GE"
+  },
+  {
+    "Country": "Germany",
+    "Year": "2015",
+    "Male": "32.4 [26.1-39.1]",
+    "Female": "28.3 [22.1-34.2]",
+    "id": "DE"
+  },
+  {
+    "Country": "Ghana",
+    "Year": "2015",
+    "Male": "13.1 [7.4-18.6]",
+    "Female": "0.4 [0.2-0.7]",
+    "id": "GH"
+  },
+  {
+    "Country": "Greece",
+    "Year": "2015",
+    "Male": "52.6 [34.4-68.5]",
+    "Female": "32.7 [19.6-48.4]",
+    "id": "GR"
+  },
+  {
+    "Country": "Haiti",
+    "Year": "2015",
+    "Male": "22.1 [12.4-32.7]",
+    "Female": "2.5 [1.3-4.0]",
+    "id": "HT"
+  },
+  {
+    "Country": "Honduras",
+    "Year": "2015",
+    "Male": "33.3 [22.1-45.1]",
+    "Female": "2.1 [1.2-3.5]",
+    "id": "HN"
+  },
+  {
+    "Country": "Hungary",
+    "Year": "2015",
+    "Male": "32.0 [23.8-40.3]",
+    "Female": "24.8 [18.8-32.4]",
+    "id": "HU"
+  },
+  {
+    "Country": "Iceland",
+    "Year": "2015",
+    "Male": "17.0 [11.2-24.4]",
+    "Female": "15.1 [10.3-21.1]",
+    "id": "IS"
+  },
+  {
+    "Country": "India",
+    "Year": "2015",
+    "Male": "20.4 [14.5-27.3]",
+    "Female": "1.9 [1.4-2.5]",
+    "id": "IN"
+  },
+  {
+    "Country": "Indonesia",
+    "Year": "2015",
+    "Male": "76.2 [59.5-95.5]",
+    "Female": "3.6 [2.6-4.5]",
+    "id": "ID"
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "Year": "2015",
+    "Male": "21.5 [15.5-28.8]",
+    "Female": "0.7 [0.4-1.1]",
+    "id": "IR"
+  },
+  {
+    "Country": "Ireland",
+    "Year": "2015",
+    "Male": "22.4 [15.0-29.7]",
+    "Female": "21.9 [15.7-30.1]",
+    "id": "IE"
+  },
+  {
+    "Country": "Israel",
+    "Year": "2015",
+    "Male": "41.2 [27.0-57.6]",
+    "Female": "19.3 [11.8-26.7]",
+    "id": "IL"
+  },
+  {
+    "Country": "Italy",
+    "Year": "2015",
+    "Male": "28.3 [23.6-33.9]",
+    "Female": "19.7 [16.6-23.8]",
+    "id": "IT"
+  },
+  {
+    "Country": "Jamaica",
+    "Year": "2015",
+    "Male": "29.9 [13.6-45.8]",
+    "Female": "5.9 [2.9-9.5]",
+    "id": "JM"
+  },
+  {
+    "Country": "Japan",
+    "Year": "2015",
+    "Male": "33.7 [25.9-41.6]",
+    "Female": "10.6 [8.0-13.4]",
+    "id": "JP"
+  },
+  {
+    "Country": "Jordan",
+    "Year": "2015",
+    "Male": "70.2 [46.6-97.0]",
+    "Female": "10.7 [6.8-15.3]",
+    "id": "JO"
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": "2015",
+    "Male": "43.9 [31.7-56.1]",
+    "Female": "9.3 [6.1-12.3]",
+    "id": "KZ"
+  },
+  {
+    "Country": "Kenya",
+    "Year": "2015",
+    "Male": "24.6 [17.0-33.1]",
+    "Female": "2.1 [1.3-3.3]",
+    "id": "KE"
+  },
+  {
+    "Country": "Kiribati",
+    "Year": "2015",
+    "Male": "63.9 [38.8-88.7]",
+    "Female": "40.9 [25.1-61.4]",
+    "id": "KI"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Year": "2015",
+    "Male": "50.4 [38.1-62.9]",
+    "Female": "3.6 [2.4-5.1]",
+    "id": "KG"
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Year": "2015",
+    "Male": "56.6 [40.3-72.1]",
+    "Female": "9.1 [6.2-12.0]",
+    "id": "LA"
+  },
+  {
+    "Country": "Latvia",
+    "Year": "2015",
+    "Male": "48.9 [38.3-63.0]",
+    "Female": "24.3 [18.4-30.6]",
+    "id": "LV"
+  },
+  {
+    "Country": "Lebanon",
+    "Year": "2015",
+    "Male": "45.4 [32.1-59.5]",
+    "Female": "31.0 [21.9-40.5]",
+    "id": "LB"
+  },
+  {
+    "Country": "Lesotho",
+    "Year": "2015",
+    "Male": "55.1 [38.9-73.4]",
+    "Female": "0.4 [0.2-0.7]",
+    "id": "LS"
+  },
+  {
+    "Country": "Liberia",
+    "Year": "2015",
+    "Male": "27.6 [13.9-44.6]",
+    "Female": "2.4 [1.1-3.9]",
+    "id": "LR"
+  },
+  {
+    "Country": "Lithuania",
+    "Year": "2015",
+    "Male": "38.1 [28.6-48.8]",
+    "Female": "22.2 [15.6-28.8]",
+    "id": "LT"
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": "2015",
+    "Male": "25.8 [18.9-34.6]",
+    "Female": "21.4 [15.2-28.2]",
+    "id": "LU"
+  },
+  {
+    "Country": "Malawi",
+    "Year": "2015",
+    "Male": "25.4 [18.4-32.2]",
+    "Female": "6.0 [3.2-8.9]",
+    "id": "MW"
+  },
+  {
+    "Country": "Malaysia",
+    "Year": "2015",
+    "Male": "43.0 [27.1-59.4]",
+    "Female": "1.4 [0.8-2.1]",
+    "id": "MY"
+  },
+  {
+    "Country": "Mali",
+    "Year": "2015",
+    "Male": "36.8 [24.0-49.4]",
+    "Female": "3.2 [1.7-4.8]",
+    "id": "ML"
+  },
+  {
+    "Country": "Malta",
+    "Year": "2015",
+    "Male": "29.7 [20.8-40.2]",
+    "Female": "20.2 [14.0-26.3]",
+    "id": "MT"
+  },
+  {
+    "Country": "Mauritania",
+    "Year": "2015",
+    "Male": "44.0 [27.2-62.0]",
+    "Female": "3.7 [2.2-5.5]",
+    "id": "MR"
+  },
+  {
+    "Country": "Mauritius",
+    "Year": "2015",
+    "Male": "40.1 [29.3-53.9]",
+    "Female": "3.3 [2.0-4.5]",
+    "id": "MU"
+  },
+  {
+    "Country": "Mexico",
+    "Year": "2015",
+    "Male": "20.8 [16.4-25.3]",
+    "Female": "6.6 [5.2-8.2]",
+    "id": "MX"
+  },
+  {
+    "Country": "Mongolia",
+    "Year": "2015",
+    "Male": "47.7 [36.0-59.0]",
+    "Female": "5.3 [3.8-6.8]",
+    "id": "MN"
+  },
+  {
+    "Country": "Morocco",
+    "Year": "2015",
+    "Male": "45.4 [27.9-61.7]",
+    "Female": "1.4 [0.7-2.2]",
+    "id": "MA"
+  },
+  {
+    "Country": "Mozambique",
+    "Year": "2015",
+    "Male": "31.4 [19.9-43.1]",
+    "Female": "5.9 [2.5-9.6]",
+    "id": "MZ"
+  },
+  {
+    "Country": "Myanmar",
+    "Year": "2015",
+    "Male": "31.6 [20.3-43.5]",
+    "Female": "6.4 [3.3-10.1]",
+    "id": "MM"
+  },
+  {
+    "Country": "Namibia",
+    "Year": "2015",
+    "Male": "38.9 [24.9-55.3]",
+    "Female": "11.4 [7.4-15.7]",
+    "id": "NA"
+  },
+  {
+    "Country": "Nauru",
+    "Year": "2015",
+    "Male": "43.0 [24.1-65.3]",
+    "Female": "52.0 [26.3-79.7]",
+    "id": "NR"
+  },
+  {
+    "Country": "Nepal",
+    "Year": "2015",
+    "Male": "37.1 [29.0-47.3]",
+    "Female": "11.1 [7.8-14.4]",
+    "id": "NP"
+  },
+  {
+    "Country": "Netherlands",
+    "Year": "2015",
+    "Male": "26.2 [20.2-32.4]",
+    "Female": "23.9 [18.3-29.4]",
+    "id": "NL"
+  },
+  {
+    "Country": "Niger",
+    "Year": "2015",
+    "Male": "18.6 [13.0-24.0]",
+    "Female": "0.2 [0.1-0.3]",
+    "id": "NE"
+  },
+  {
+    "Country": "Nigeria",
+    "Year": "2015",
+    "Male": "17.4 [8.0-28.9]",
+    "Female": "1.1 [0.4-2.0]",
+    "id": "NG"
+  },
+  {
+    "Country": "Niue",
+    "Year": "2015",
+    "Male": "20.3 [13.0-27.8]",
+    "Female": "11.4 [6.9-15.9]",
+    "id": "NU"
+  },
+  {
+    "Country": "Norway",
+    "Year": "2015",
+    "Male": "22.4 [18.3-26.2]",
+    "Female": "22.1 [18.4-26.5]",
+    "id": "NO"
+  },
+  {
+    "Country": "Oman",
+    "Year": "2015",
+    "Male": "21.0 [10.5-32.4]",
+    "Female": "1.0 [0.4-1.8]",
+    "id": "OM"
+  },
+  {
+    "Country": "Pakistan",
+    "Year": "2015",
+    "Male": "41.9 [29.7-57.3]",
+    "Female": "3.0 [1.8-4.2]",
+    "id": "PK"
+  },
+  {
+    "Country": "Panama",
+    "Year": "2015",
+    "Male": "10.6 [7.6-14.3]",
+    "Female": "2.6 [1.8-3.5]",
+    "id": "PA"
+  },
+  {
+    "Country": "Paraguay",
+    "Year": "2015",
+    "Male": "28.3 [18.1-39.0]",
+    "Female": "7.9 [4.9-11.4]",
+    "id": "PY"
+  },
+  {
+    "Country": "Peru",
+    "Year": "2015",
+    "Male": "",
+    "Female": "5.9 [4.4-7.7]",
+    "id": "PE"
+  },
+  {
+    "Country": "Philippines",
+    "Year": "2015",
+    "Male": "43.0 [34.6-53.5]",
+    "Female": "8.5 [6.6-10.8]",
+    "id": "PH"
+  },
+  {
+    "Country": "Poland",
+    "Year": "2015",
+    "Male": "32.4 [25.0-40.9]",
+    "Female": "23.7 [18.6-30.3]",
+    "id": "PL"
+  },
+  {
+    "Country": "Portugal",
+    "Year": "2015",
+    "Male": "31.5 [23.3-42.2]",
+    "Female": "13.7 [8.9-20.3]",
+    "id": "PT"
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": "2015",
+    "Male": "49.8 [32.5-70.3]",
+    "Female": "4.2 [2.3-6.5]",
+    "id": "QA"
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": "2015",
+    "Male": "45.7 [34.1-55.8]",
+    "Female": "5.4 [4.1-6.9]",
+    "id": "QA"
+  },
+  {
+    "Country": "Romania",
+    "Year": "2015",
+    "Male": "36.9 [27.9-46.6]",
+    "Female": "22.7 [17.0-29.3]",
+    "id": "RO"
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": "2015",
+    "Male": "59.0 [46.6-72.5]",
+    "Female": "22.8 [17.6-29.3]",
+    "id": "RU"
+  },
+  {
+    "Country": "Rwanda",
+    "Year": "2015",
+    "Male": "",
+    "Female": "5.5 [3.0-8.0]",
+    "id": "RW"
+  },
+  {
+    "Country": "Samoa",
+    "Year": "2015",
+    "Male": "41.0 [29.6-54.6]",
+    "Female": "18.9 [13.7-25.7]",
+    "id": "WS"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Year": "2015",
+    "Male": "27.9 [19.5-37.0]",
+    "Female": "2.9 [1.3-4.5]",
+    "id": "SA"
+  },
+  {
+    "Country": "Senegal",
+    "Year": "2015",
+    "Male": "23.4 [17.2-29.3]",
+    "Female": "0.7 [0.4-1.1]",
+    "id": "SN"
+  },
+  {
+    "Country": "Serbia",
+    "Year": "2015",
+    "Male": "43.6 [32.4-55.8]",
+    "Female": "39.7 [28.1-50.5]",
+    "id": "RS"
+  },
+  {
+    "Country": "Seychelles",
+    "Year": "2015",
+    "Male": "43.0 [27.9-60.0]",
+    "Female": "8.8 [5.4-12.3]",
+    "id": "SC"
+  },
+  {
+    "Country": "Sierra Leone",
+    "Year": "2015",
+    "Male": "60.0 [41.6-82.4]",
+    "Female": "12.0 [6.7-17.9]",
+    "id": "SL"
+  },
+  {
+    "Country": "Singapore",
+    "Year": "2015",
+    "Male": "28.0 [20.7-37.6]",
+    "Female": "5.0 [3.5-6.7]",
+    "id": "SG"
+  },
+  {
+    "Country": "Slovakia",
+    "Year": "2015",
+    "Male": "39.7 [23.6-57.7]",
+    "Female": "17.6 [8.9-28.0]",
+    "id": "SK"
+  },
+  {
+    "Country": "Slovenia",
+    "Year": "2015",
+    "Male": "22.3 [16.0-28.6]",
+    "Female": "18.1 [13.3-23.4]",
+    "id": "SI"
+  },
+  {
+    "Country": "South Africa",
+    "Year": "2015",
+    "Male": "31.4 [24.1-40.7]",
+    "Female": "6.5 [5.0-8.5]",
+    "id": "ZA"
+  },
+  {
+    "Country": "Spain",
+    "Year": "2015",
+    "Male": "31.3 [24.1-38.2]",
+    "Female": "27.1 [21.0-33.2]",
+    "id": "ES"
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": "2015",
+    "Male": "28.4 [15.9-41.4]",
+    "Female": "0.4 [0.2-0.6]",
+    "id": "LK"
+  },
+  {
+    "Country": "Sweden",
+    "Year": "2015",
+    "Male": "20.4 [16.4-24.3]",
+    "Female": "20.8 [16.8-25.0]",
+    "id": "SE"
+  },
+  {
+    "Country": "Switzerland",
+    "Year": "2015",
+    "Male": "26.9 [21.7-32.4]",
+    "Female": "19.7 [16.2-23.9]",
+    "id": "CH"
+  },
+  {
+    "Country": "Thailand",
+    "Year": "2015",
+    "Male": "41.4 [34.8-49.7]",
+    "Female": "2.3 [1.8-2.8]",
+    "id": "TH"
+  },
+  {
+    "Country": "Tonga",
+    "Year": "2015",
+    "Male": "47.3 [32.9-62.3]",
+    "Female": "13.0 [8.7-17.0]",
+    "id": "TO"
+  },
+  {
+    "Country": "Turkey",
+    "Year": "2015",
+    "Male": "39.5 [31.6-49.6]",
+    "Female": "12.4 [9.5-15.1]",
+    "id": "TR"
+  },
+  {
+    "Country": "Uganda",
+    "Year": "2015",
+    "Male": "16.4 [10.8-22.1]",
+    "Female": "2.9 [1.9-3.9]",
+    "id": "UG"
+  },
+  {
+    "Country": "Ukraine",
+    "Year": "2015",
+    "Male": "49.4 [40.1-59.8]",
+    "Female": "14.0 [11.0-17.1]",
+    "id": "UA"
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": "2015",
+    "Male": "19.9 [16.1-25.9]",
+    "Female": "18.4 [14.0-23.7]",
+    "id": "GB"
+  },
+  {
+    "Country": "Tanzania",
+    "Year": " United Republic of",
+    "Male": "2015",
+    "Female": "27.5 [19.7-36.9]",
+    "id": "3.8 [2.1-5.6]"
+  },
+  {
+    "Country": "United States of America",
+    "Year": "2015",
+    "Male": "19.5 [15.7-23.6]",
+    "Female": "15.0 [12.1-18.1]",
+    "id": "US"
+  },
+  {
+    "Country": "Uruguay",
+    "Year": "2015",
+    "Male": "26.7 [21.0-33.2]",
+    "Female": "19.4 [15.2-24.5]",
+    "id": "UY"
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": "2015",
+    "Male": "24.9 [16.3-36.9]",
+    "Female": "1.3 [0.7-2.1]",
+    "id": "UZ"
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": "2015",
+    "Male": "47.1 [35.7-58.5]",
+    "Female": "1.3 [0.9-1.6]",
+    "id": "VN"
+  },
+  {
+    "Country": "Zambia",
+    "Year": "2015",
+    "Male": "26.5 [16.8-36.8]",
+    "Female": "4.6 [2.6-7.4]",
+    "id": "ZM"
+  },
+  {
+    "Country": "Zimbabwe",
+    "Year": "2015",
+    "Male": "31.2 [22.5-40.6]",
+    "Female": "2.1 [1.1-3.1]",
+    "id": "ZW"
+  },
+  {
+    "Country": "Country",
+    "Year": "Year",
+    "Male": "Male",
+    "Female": "Female",
+    "id": "id"
+  },
+  {
+    "Country": "Albania",
+    "Year": "2010",
+    "Male": "53.1 [42.8-65.4]",
+    "Female": "8.7 [6.4-11.5]",
+    "id": "AL"
+  },
+  {
+    "Country": "Andorra",
+    "Year": "2010",
+    "Male": "39.2 [30.2-51.0]",
+    "Female": "28.8 [20.9-38.1]",
+    "id": "AD"
+  },
+  {
+    "Country": "Argentina",
+    "Year": "2010",
+    "Male": "33.4 [27.9-39.5]",
+    "Female": "22.4 [17.9-26.6]",
+    "id": "AR"
+  },
+  {
+    "Country": "Armenia",
+    "Year": "2010",
+    "Male": "56.7 [46.0-66.0]",
+    "Female": "1.8 [1.5-2.3]",
+    "id": "AM"
+  },
+  {
+    "Country": "Australia",
+    "Year": "2010",
+    "Male": "19.6 [16.4-23.4]",
+    "Female": "15.8 [12.8-18.4]",
+    "id": "AU"
+  },
+  {
+    "Country": "Austria",
+    "Year": "2010",
+    "Male": "38.8 [27.1-49.9]",
+    "Female": "36.7 [25.5-48.9]",
+    "id": "AT"
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": "2010",
+    "Male": "49.9 [25.4-80.1]",
+    "Female": "0.5 [0.2-0.8]",
+    "id": "AZ"
+  },
+  {
+    "Country": "Bahrain",
+    "Year": "2010",
+    "Male": "34.8 [26.0-43.1]",
+    "Female": "6.5 [4.3-9.0]",
+    "id": "BH"
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": "2010",
+    "Male": "46.6 [38.4-55.7]",
+    "Female": "1.4 [1.0-1.9]",
+    "id": "BD"
+  },
+  {
+    "Country": "Barbados",
+    "Year": "2010",
+    "Male": "13.2 [8.4-18.5]",
+    "Female": "1.2 [0.5-1.8]",
+    "id": "BB"
+  },
+  {
+    "Country": "Belarus",
+    "Year": "2010",
+    "Male": "51.3 [42.5-60.7]",
+    "Female": "11.4 [9.0-13.8]",
+    "id": "BY"
+  },
+  {
+    "Country": "Belgium",
+    "Year": "2010",
+    "Male": "29.1 [19.8-39.7]",
+    "Female": "21.3 [14.0-31.0]",
+    "id": "BE"
+  },
+  {
+    "Country": "Benin",
+    "Year": "2010",
+    "Male": "15.6 [11.4-20.1]",
+    "Female": "1.1 [0.7-1.6]",
+    "id": "BJ"
+  },
+  {
+    "Country": "Bolivia (Plurinational State of)",
+    "Year": "2010",
+    "Male": "35.8 [19.8-55.5]",
+    "Female": "19.7 [11.9-29.0]",
+    "id": "BO"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Year": "2010",
+    "Male": "50.0 [37.0-63.0]",
+    "Female": "31.7 [24.2-41.0]",
+    "id": "BA"
+  },
+  {
+    "Country": "Brazil",
+    "Year": "2010",
+    "Male": "22.2 [18.0-27.0]",
+    "Female": "13.3 [10.7-16.2]",
+    "id": "BR"
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Year": "2010",
+    "Male": "29.1 [14.3-48.3]",
+    "Female": "3.6 [1.6-6.6]",
+    "id": "BN"
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": "2010",
+    "Male": "47.1 [38.2-56.8]",
+    "Female": "32.0 [24.8-39.2]",
+    "id": "BG"
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": "2010",
+    "Male": "31.1 [22.8-42.1]",
+    "Female": "5.5 [3.3-8.5]",
+    "id": "BF"
+  },
+  {
+    "Country": "Cabo Verde",
+    "Year": "2010",
+    "Male": "19.1 [12.0-28.1]",
+    "Female": "4.1 [2.4-6.2]",
+    "id": "CV"
+  },
+  {
+    "Country": "Cambodia",
+    "Year": "2010",
+    "Male": "46.0 [34.2-57.9]",
+    "Female": "4.0 [3.2-4.9]",
+    "id": "KH"
+  },
+  {
+    "Country": "Cameroon",
+    "Year": "2010",
+    "Male": "28.5 [17.0-41.0]",
+    "Female": "0.9 [0.3-1.6]",
+    "id": "CM"
+  },
+  {
+    "Country": "Canada",
+    "Year": "2010",
+    "Male": "20.9 [17.4-24.4]",
+    "Female": "15.8 [13.4-18.6]",
+    "id": "CA"
+  },
+  {
+    "Country": "Chile",
+    "Year": "2010",
+    "Male": "42.8 [32.4-54.5]",
+    "Female": "38.3 [28.6-48.4]",
+    "id": "CL"
+  },
+  {
+    "Country": "China",
+    "Year": "2010",
+    "Male": "50.1 [41.0-60.3]",
+    "Female": "2.2 [1.7-2.6]",
+    "id": "CN"
+  },
+  {
+    "Country": "Colombia",
+    "Year": "2010",
+    "Male": "18.3 [8.8-30.6]",
+    "Female": "7.4 [3.3-12.6]",
+    "id": "CO"
+  },
+  {
+    "Country": "Comoros",
+    "Year": "2010",
+    "Male": "25.2 [18.0-32.2]",
+    "Female": "7.9 [4.4-11.9]",
+    "id": "KM"
+  },
+  {
+    "Country": "Congo",
+    "Year": "2010",
+    "Male": "26.4 [18.7-33.2]",
+    "Female": "1.7 [0.9-2.6]",
+    "id": "CG"
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": "2010",
+    "Male": "20.9 [12.2-29.4]",
+    "Female": "9.8 [5.3-14.7]",
+    "id": "CR"
+  },
+  {
+    "Country": "Croatia",
+    "Year": "2010",
+    "Male": "39.4 [30.8-48.4]",
+    "Female": "31.6 [24.8-39.3]",
+    "id": "HR"
+  },
+  {
+    "Country": "Cuba",
+    "Year": "2010",
+    "Male": "53.2 [28.0-85.1]",
+    "Female": "21.3 [10.8-34.6]",
+    "id": "CU"
+  },
+  {
+    "Country": "Czechia",
+    "Year": "2010",
+    "Male": "38.5 [31.3-45.9]",
+    "Female": "29.2 [23.1-34.7]",
+    "id": "CZ"
+  },
+  {
+    "Country": "Denmark",
+    "Year": "2010",
+    "Male": "23.4 [18.4-27.9]",
+    "Female": "20.9 [17.0-25.6]",
+    "id": "DK"
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": "2010",
+    "Male": "19.5 [14.2-25.3]",
+    "Female": "10.9 [7.5-14.2]",
+    "id": "DO"
+  },
+  {
+    "Country": "Ecuador",
+    "Year": "2010",
+    "Male": "15.9 [10.2-21.9]",
+    "Female": "3.8 [1.9-5.9]",
+    "id": "EC"
+  },
+  {
+    "Country": "Egypt",
+    "Year": "2010",
+    "Male": "43.9 [35.0-52.9]",
+    "Female": "0.5 [0.3-0.7]",
+    "id": "EG"
+  },
+  {
+    "Country": "Estonia",
+    "Year": "2010",
+    "Male": "45.2 [36.9-54.2]",
+    "Female": "25.6 [21.3-31.3]",
+    "id": "EE"
+  },
+  {
+    "Country": "Eswatini",
+    "Year": "2010",
+    "Male": "17.8 [13.2-22.2]",
+    "Female": "2.5 [1.6-3.5]",
+    "id": "SZ"
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": "2010",
+    "Male": "9.0 [6.6-11.6]",
+    "Female": "0.5 [0.3-0.8]",
+    "id": "ET"
+  },
+  {
+    "Country": "Fiji",
+    "Year": "2010",
+    "Male": "42.3 [19.3-64.9]",
+    "Female": "13.1 [6.8-21.1]",
+    "id": "FJ"
+  },
+  {
+    "Country": "Finland",
+    "Year": "2010",
+    "Male": "26.3 [22.1-31.2]",
+    "Female": "20.6 [17.0-24.2]",
+    "id": "FI"
+  },
+  {
+    "Country": "France",
+    "Year": "2010",
+    "Male": "32.1 [24.4-41.5]",
+    "Female": "26.2 [18.5-32.7]",
+    "id": "FR"
+  },
+  {
+    "Country": "Georgia",
+    "Year": "2010",
+    "Male": "59.6 [47.5-74.1]",
+    "Female": "6.0 [4.5-7.4]",
+    "id": "GE"
+  },
+  {
+    "Country": "Germany",
+    "Year": "2010",
+    "Male": "34.3 [28.1-40.7]",
+    "Female": "29.0 [24.0-34.4]",
+    "id": "DE"
+  },
+  {
+    "Country": "Ghana",
+    "Year": "2010",
+    "Male": "11.6 [8.2-15.9]",
+    "Female": "0.5 [0.3-0.7]",
+    "id": "GH"
+  },
+  {
+    "Country": "Greece",
+    "Year": "2010",
+    "Male": "55.6 [41.5-73.8]",
+    "Female": "35.2 [22.8-51.0]",
+    "id": "GR"
+  },
+  {
+    "Country": "Guyana",
+    "Year": "2010",
+    "Male": "",
+    "Female": "",
+    "id": "GY"
+  },
+  {
+    "Country": "Haiti",
+    "Year": "2010",
+    "Male": "20.7 [13.8-30.2]",
+    "Female": "2.9 [1.7-4.2]",
+    "id": "HT"
+  },
+  {
+    "Country": "Honduras",
+    "Year": "2010",
+    "Male": "40.3 [28.6-55.2]",
+    "Female": "2.7 [1.6-4.0]",
+    "id": "HN"
+  },
+  {
+    "Country": "Hungary",
+    "Year": "2010",
+    "Male": "35.9 [29.3-44.5]",
+    "Female": "27.5 [21.3-34.2]",
+    "id": "HU"
+  },
+  {
+    "Country": "Iceland",
+    "Year": "2010",
+    "Male": "21.1 [14.8-27.7]",
+    "Female": "18.1 [13.0-23.2]",
+    "id": "IS"
+  },
+  {
+    "Country": "India",
+    "Year": "2010",
+    "Male": "24.4 [19.8-29.2]",
+    "Female": "2.9 [2.3-3.6]",
+    "id": "IN"
+  },
+  {
+    "Country": "Indonesia",
+    "Year": "2010",
+    "Male": "68.4 [55.9-83.5]",
+    "Female": "4.2 [3.5-5.3]",
+    "id": "ID"
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "Year": "2010",
+    "Male": "23.8 [18.9-28.8]",
+    "Female": "1.5 [1.0-1.9]",
+    "id": "IR"
+  },
+  {
+    "Country": "Ireland",
+    "Year": "2010",
+    "Male": "25.5 [20.0-31.9]",
+    "Female": "24.4 [18.8-30.9]",
+    "id": "IE"
+  },
+  {
+    "Country": "Israel",
+    "Year": "2010",
+    "Male": "41.8 [32.3-55.3]",
+    "Female": "20.4 [14.5-26.7]",
+    "id": "IL"
+  },
+  {
+    "Country": "Italy",
+    "Year": "2010",
+    "Male": "29.7 [25.0-34.7]",
+    "Female": "19.8 [16.6-23.2]",
+    "id": "IT"
+  },
+  {
+    "Country": "Jamaica",
+    "Year": "2010",
+    "Male": "29.3 [18.0-42.6]",
+    "Female": "6.7 [3.6-9.9]",
+    "id": "JM"
+  },
+  {
+    "Country": "Japan",
+    "Year": "2010",
+    "Male": "38.4 [30.9-45.2]",
+    "Female": "11.7 [9.5-14.2]",
+    "id": "JP"
+  },
+  {
+    "Country": "Jordan",
+    "Year": "2010",
+    "Male": "58.9 [40.6-76.6]",
+    "Female": "9.5 [6.6-13.0]",
+    "id": "JO"
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": "2010",
+    "Male": "47.8 [38.2-57.8]",
+    "Female": "9.9 [7.5-13.1]",
+    "id": "KZ"
+  },
+  {
+    "Country": "Kenya",
+    "Year": "2010",
+    "Male": "26.3 [20.3-34.0]",
+    "Female": "2.4 [1.6-3.4]",
+    "id": "KE"
+  },
+  {
+    "Country": "Kiribati",
+    "Year": "2010",
+    "Male": "69.3 [52.5-93.4]",
+    "Female": "43.7 [30.4-57.5]",
+    "id": "KI"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Year": "2010",
+    "Male": "50.4 [41.0-60.4]",
+    "Female": "3.9 [2.9-5.2]",
+    "id": "KG"
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Year": "2010",
+    "Male": "61.7 [48.9-75.4]",
+    "Female": "11.9 [9.0-15.3]",
+    "id": "LA"
+  },
+  {
+    "Country": "Latvia",
+    "Year": "2010",
+    "Male": "51.6 [42.4-62.7]",
+    "Female": "24.4 [19.6-29.3]",
+    "id": "LV"
+  },
+  {
+    "Country": "Lebanon",
+    "Year": "2010",
+    "Male": "41.7 [31.8-50.7]",
+    "Female": "28.3 [21.2-35.3]",
+    "id": "LB"
+  },
+  {
+    "Country": "Lesotho",
+    "Year": "2010",
+    "Male": "47.2 [35.4-61.6]",
+    "Female": "0.5 [0.2-0.7]",
+    "id": "LS"
+  },
+  {
+    "Country": "Liberia",
+    "Year": "2010",
+    "Male": "23.9 [12.8-38.6]",
+    "Female": "2.8 [1.4-4.7]",
+    "id": "LR"
+  },
+  {
+    "Country": "Libya",
+    "Year": "2010",
+    "Male": "",
+    "Female": "",
+    "id": "LY"
+  },
+  {
+    "Country": "Lithuania",
+    "Year": "2010",
+    "Male": "42.3 [34.1-52.3]",
+    "Female": "21.8 [17.0-26.8]",
+    "id": "LT"
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": "2010",
+    "Male": "28.4 [22.2-35.2]",
+    "Female": "22.7 [17.6-28.5]",
+    "id": "LU"
+  },
+  {
+    "Country": "Malawi",
+    "Year": "2010",
+    "Male": "27.6 [21.5-33.9]",
+    "Female": "7.0 [4.2-9.8]",
+    "id": "MW"
+  },
+  {
+    "Country": "Malaysia",
+    "Year": "2010",
+    "Male": "46.2 [33.0-58.4]",
+    "Female": "1.8 [1.2-2.4]",
+    "id": "MY"
+  },
+  {
+    "Country": "Mali",
+    "Year": "2010",
+    "Male": "30.3 [21.7-38.2]",
+    "Female": "3.5 [1.9-5.1]",
+    "id": "ML"
+  },
+  {
+    "Country": "Malta",
+    "Year": "2010",
+    "Male": "32.5 [25.0-41.9]",
+    "Female": "22.0 [16.8-27.7]",
+    "id": "MT"
+  },
+  {
+    "Country": "Mauritania",
+    "Year": "2010",
+    "Male": "35.8 [25.5-46.6]",
+    "Female": "4.2 [2.8-5.8]",
+    "id": "MR"
+  },
+  {
+    "Country": "Mauritius",
+    "Year": "2010",
+    "Male": "42.0 [33.1-52.8]",
+    "Female": "3.7 [2.8-4.7]",
+    "id": "MU"
+  },
+  {
+    "Country": "Mexico",
+    "Year": "2010",
+    "Male": "25.1 [21.0-29.6]",
+    "Female": "8.4 [7.1-10.1]",
+    "id": "MX"
+  },
+  {
+    "Country": "Mongolia",
+    "Year": "2010",
+    "Male": "50.3 [41.1-60.1]",
+    "Female": "6.3 [5.1-7.9]",
+    "id": "MN"
+  },
+  {
+    "Country": "Morocco",
+    "Year": "2010",
+    "Male": "40.6 [31.3-51.5]",
+    "Female": "1.9 [1.1-2.7]",
+    "id": "MA"
+  },
+  {
+    "Country": "Mozambique",
+    "Year": "2010",
+    "Male": "34.8 [22.9-47.8]",
+    "Female": "6.4 [3.3-10.3]",
+    "id": "MZ"
+  },
+  {
+    "Country": "Myanmar",
+    "Year": "2010",
+    "Male": "38.3 [28.4-49.0]",
+    "Female": "8.6 [5.2-12.6]",
+    "id": "MM"
+  },
+  {
+    "Country": "Namibia",
+    "Year": "2010",
+    "Male": "35.1 [25.0-46.3]",
+    "Female": "12.3 [9.0-15.8]",
+    "id": "NA"
+  },
+  {
+    "Country": "Nauru",
+    "Year": "2010",
+    "Male": "46.9 [30.4-66.1]",
+    "Female": "55.5 [36.1-76.3]",
+    "id": "NR"
+  },
+  {
+    "Country": "Nepal",
+    "Year": "2010",
+    "Male": "39.7 [31.8-47.6]",
+    "Female": "16.1 [12.5-19.7]",
+    "id": "NP"
+  },
+  {
+    "Country": "Netherlands",
+    "Year": "2010",
+    "Male": "29.4 [23.7-35.1]",
+    "Female": "25.9 [21.0-30.6]",
+    "id": "NL"
+  },
+  {
+    "Country": "Niger",
+    "Year": "2010",
+    "Male": "14.4 [10.7-18.5]",
+    "Female": "0.2 [0.1-0.4]",
+    "id": "NE"
+  },
+  {
+    "Country": "Nigeria",
+    "Year": "2010",
+    "Male": "15.0 [8.0-23.8]",
+    "Female": "1.3 [0.5-2.3]",
+    "id": "NG"
+  },
+  {
+    "Country": "Niue",
+    "Year": "2010",
+    "Male": "23.2 [14.9-31.2]",
+    "Female": "12.5 [7.8-17.2]",
+    "id": "NU"
+  },
+  {
+    "Country": "Norway",
+    "Year": "2010",
+    "Male": "28.0 [23.3-32.0]",
+    "Female": "27.1 [23.2-31.8]",
+    "id": "NO"
+  },
+  {
+    "Country": "Oman",
+    "Year": "2010",
+    "Male": "17.5 [11.1-24.4]",
+    "Female": "1.0 [0.4-1.5]",
+    "id": "OM"
+  },
+  {
+    "Country": "Pakistan",
+    "Year": "2010",
+    "Male": "40.2 [29.4-50.7]",
+    "Female": "4.2 [2.9-5.4]",
+    "id": "PK"
+  },
+  {
+    "Country": "Panama",
+    "Year": "2010",
+    "Male": "14.1 [11.3-17.9]",
+    "Female": "3.2 [2.5-4.0]",
+    "id": "PA"
+  },
+  {
+    "Country": "Paraguay",
+    "Year": "2010",
+    "Male": "33.1 [23.1-42.7]",
+    "Female": "9.7 [6.9-12.9]",
+    "id": "PY"
+  },
+  {
+    "Country": "Peru",
+    "Year": "2010",
+    "Male": "",
+    "Female": "6.9 [5.4-8.8]",
+    "id": "PE"
+  },
+  {
+    "Country": "Philippines",
+    "Year": "2010",
+    "Male": "47.6 [39.5-56.4]",
+    "Female": "9.7 [8.1-11.5]",
+    "id": "PH"
+  },
+  {
+    "Country": "Poland",
+    "Year": "2010",
+    "Male": "36.5 [30.0-44.6]",
+    "Female": "27.7 [22.6-33.3]",
+    "id": "PL"
+  },
+  {
+    "Country": "Portugal",
+    "Year": "2010",
+    "Male": "32.9 [25.1-40.9]",
+    "Female": "14.2 [9.4-18.5]",
+    "id": "PT"
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": "2010",
+    "Male": "53.3 [37.6-69.4]",
+    "Female": "4.6 [2.6-6.6]",
+    "id": "QA"
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": "2010",
+    "Male": "44.1 [35.7-54.3]",
+    "Female": "5.4 [4.2-6.5]",
+    "id": "QA"
+  },
+  {
+    "Country": "Romania",
+    "Year": "2010",
+    "Male": "41.4 [33.7-49.6]",
+    "Female": "23.9 [19.6-29.2]",
+    "id": "RO"
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": "2010",
+    "Male": "61.2 [51.3-73.9]",
+    "Female": "22.4 [17.5-27.1]",
+    "id": "RU"
+  },
+  {
+    "Country": "Rwanda",
+    "Year": "2010",
+    "Male": "",
+    "Female": "5.8 [3.5-8.3]",
+    "id": "RW"
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Year": "2010",
+    "Male": "",
+    "Female": "",
+    "id": "KN"
+  },
+  {
+    "Country": "Samoa",
+    "Year": "2010",
+    "Male": "47.4 [36.6-61.0]",
+    "Female": "20.9 [15.6-26.3]",
+    "id": "WS"
+  },
+  {
+    "Country": "San Marino",
+    "Year": "2010",
+    "Male": "",
+    "Female": "",
+    "id": "SM"
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": "2010",
+    "Male": "",
+    "Female": "",
+    "id": "ST"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Year": "2010",
+    "Male": "24.9 [18.8-31.4]",
+    "Female": "3.0 [1.7-4.5]",
+    "id": "SA"
+  },
+  {
+    "Country": "Senegal",
+    "Year": "2010",
+    "Male": "21.2 [16.9-26.2]",
+    "Female": "0.9 [0.6-1.3]",
+    "id": "SN"
+  },
+  {
+    "Country": "Serbia",
+    "Year": "2010",
+    "Male": "46.8 [36.4-56.8]",
+    "Female": "40.2 [31.0-49.4]",
+    "id": "RS"
+  },
+  {
+    "Country": "Seychelles",
+    "Year": "2010",
+    "Male": "44.8 [32.4-59.6]",
+    "Female": "9.5 [6.4-13.1]",
+    "id": "SC"
+  },
+  {
+    "Country": "Sierra Leone",
+    "Year": "2010",
+    "Male": "52.1 [40.0-68.1]",
+    "Female": "14.4 [8.6-21.0]",
+    "id": "SL"
+  },
+  {
+    "Country": "Singapore",
+    "Year": "2010",
+    "Male": "27.6 [21.9-34.2]",
+    "Female": "5.3 [4.2-6.8]",
+    "id": "SG"
+  },
+  {
+    "Country": "Slovakia",
+    "Year": "2010",
+    "Male": "41.4 [27.3-54.8]",
+    "Female": "18.6 [10.7-27.3]",
+    "id": "SK"
+  },
+  {
+    "Country": "Slovenia",
+    "Year": "2010",
+    "Male": "24.6 [19.8-30.6]",
+    "Female": "19.5 [15.1-24.1]",
+    "id": "SI"
+  },
+  {
+    "Country": "South Africa",
+    "Year": "2010",
+    "Male": "32.5 [25.7-40.1]",
+    "Female": "8.0 [6.4-10.0]",
+    "id": "ZA"
+  },
+  {
+    "Country": "Spain",
+    "Year": "2010",
+    "Male": "35.3 [27.6-41.9]",
+    "Female": "28.6 [22.6-33.9]",
+    "id": "ES"
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": "2010",
+    "Male": "29.3 [20.4-37.9]",
+    "Female": "0.6 [0.4-0.9]",
+    "id": "LK"
+  },
+  {
+    "Country": "Sweden",
+    "Year": "2010",
+    "Male": "23.8 [19.7-28.5]",
+    "Female": "24.5 [19.6-28.9]",
+    "id": "SE"
+  },
+  {
+    "Country": "Switzerland",
+    "Year": "2010",
+    "Male": "29.2 [24.0-34.3]",
+    "Female": "21.7 [18.0-25.4]",
+    "id": "CH"
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Year": "2010",
+    "Male": "",
+    "Female": "",
+    "id": "SY"
+  },
+  {
+    "Country": "Thailand",
+    "Year": "2010",
+    "Male": "43.2 [37.0-50.6]",
+    "Female": "2.5 [2.1-3.0]",
+    "id": "TH"
+  },
+  {
+    "Country": "Tonga",
+    "Year": "2010",
+    "Male": "49.3 [36.7-60.1]",
+    "Female": "13.6 [10.5-17.0]",
+    "id": "TO"
+  },
+  {
+    "Country": "Tunisia",
+    "Year": "2010",
+    "Male": "",
+    "Female": "",
+    "id": "TN"
+  },
+  {
+    "Country": "Turkey",
+    "Year": "2010",
+    "Male": "45.0 [36.6-52.9]",
+    "Female": "14.4 [11.8-17.1]",
+    "id": "TR"
+  },
+  {
+    "Country": "Uganda",
+    "Year": "2010",
+    "Male": "19.3 [14.5-26.2]",
+    "Female": "3.4 [2.4-4.3]",
+    "id": "UG"
+  },
+  {
+    "Country": "Ukraine",
+    "Year": "2010",
+    "Male": "52.6 [44.1-63.2]",
+    "Female": "14.6 [12.3-17.9]",
+    "id": "UA"
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": "2010",
+    "Male": "23.0 [19.0-28.7]",
+    "Female": "21.4 [17.1-26.5]",
+    "id": "GB"
+  },
+  {
+    "Country": "Tanzania",
+    "Year": " United Republic of",
+    "Male": "2010",
+    "Female": "30.3 [22.3-38.7]",
+    "id": "4.1 [2.5-6.1]"
+  },
+  {
+    "Country": "United States of America",
+    "Year": "2010",
+    "Male": "22.0 [18.3-26.1]",
+    "Female": "17.3 [14.5-20.3]",
+    "id": "US"
+  },
+  {
+    "Country": "Uruguay",
+    "Year": "2010",
+    "Male": "32.3 [25.6-38.5]",
+    "Female": "24.0 [19.2-28.7]",
+    "id": "UY"
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": "2010",
+    "Male": "26.5 [18.7-36.0]",
+    "Female": "1.4 [0.8-2.1]",
+    "id": "UZ"
+  },
+  {
+    "Country": "Venezuela (Bolivarian Republic of)",
+    "Year": "2010",
+    "Male": "",
+    "Female": "",
+    "id": "VE"
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": "2010",
+    "Male": "48.3 [39.8-58.6]",
+    "Female": "1.4 [1.1-1.7]",
+    "id": "VN"
+  },
+  {
+    "Country": "Zambia",
+    "Year": "2010",
+    "Male": "27.8 [20.5-36.2]",
+    "Female": "5.0 [3.1-7.2]",
+    "id": "ZM"
+  },
+  {
+    "Country": "Zimbabwe",
+    "Year": "2010",
+    "Male": "31.8 [24.1-39.4]",
+    "Female": "2.4 [1.4-3.4]",
+    "id": "ZW"
+  },
+  {
+    "Country": "Country",
+    "Year": "Year",
+    "Male": "Male",
+    "Female": "Female",
+    "id": "id"
+  },
+  {
+    "Country": "Albania",
+    "Year": "2020",
+    "Male": "49.5 [30.7-66.3]",
+    "Female": "6.6 [3.8-10.0]",
+    "id": "AL"
+  },
+  {
+    "Country": "Andorra",
+    "Year": "2020",
+    "Male": "35.6 [22.3-52.4]",
+    "Female": "26.8 [15.1-40.1]",
+    "id": "AD"
+  },
+  {
+    "Country": "Argentina",
+    "Year": "2020",
+    "Male": "26.0 [18.7-34.1]",
+    "Female": "15.0 [10.4-19.8]",
+    "id": "AR"
+  },
+  {
+    "Country": "Armenia",
+    "Year": "2020",
+    "Male": "48.4 [35.9-61.5]",
+    "Female": "1.3 [0.9-1.8]",
+    "id": "AM"
+  },
+  {
+    "Country": "Australia",
+    "Year": "2020",
+    "Male": "14.3 [10.7-17.9]",
+    "Female": "11.0 [8.4-13.7]",
+    "id": "AU"
+  },
+  {
+    "Country": "Austria",
+    "Year": "2020",
+    "Male": "32.7 [19.7-46.6]",
+    "Female": "33.3 [17.8-49.2]",
+    "id": "AT"
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": "2020",
+    "Male": "43.3 [19.7-77.4]",
+    "Female": "0.4 [0.1-0.6]",
+    "id": "AZ"
+  },
+  {
+    "Country": "Bahrain",
+    "Year": "2020",
+    "Male": "67.5 [45.4-100.0]",
+    "Female": "9.0 [4.2-14.9]",
+    "id": "BH"
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": "2020",
+    "Male": "34.3 [23.3-45.3]",
+    "Female": "0.3 [0.2-0.5]",
+    "id": "BD"
+  },
+  {
+    "Country": "Barbados",
+    "Year": "2020",
+    "Male": "13.0 [5.7-21.6]",
+    "Female": "0.8 [0.3-1.3]",
+    "id": "BB"
+  },
+  {
+    "Country": "Belarus",
+    "Year": "2020",
+    "Male": "41.7 [29.1-53.8]",
+    "Female": "9.8 [7.1-13.4]",
+    "id": "BY"
+  },
+  {
+    "Country": "Belgium",
+    "Year": "2020",
+    "Male": "24.2 [15.0-37.9]",
+    "Female": "18.9 [10.8-27.4]",
+    "id": "BE"
+  },
+  {
+    "Country": "Benin",
+    "Year": "2020",
+    "Male": "20.2 [13.0-29.2]",
+    "Female": "0.8 [0.4-1.3]",
+    "id": "BJ"
+  },
+  {
+    "Country": "Bolivia (Plurinational State of)",
+    "Year": "2020",
+    "Male": "26.0 [11.0-46.0]",
+    "Female": "15.0 [6.6-24.0]",
+    "id": "BO"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Year": "2020",
+    "Male": "44.4 [27.9-66.2]",
+    "Female": "28.6 [16.8-41.5]",
+    "id": "BA"
+  },
+  {
+    "Country": "Brazil",
+    "Year": "2020",
+    "Male": "16.9 [11.4-23.1]",
+    "Female": "9.7 [6.2-13.8]",
+    "id": "BR"
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Year": "2020",
+    "Male": "29.8 [10.5-59.2]",
+    "Female": "2.7 [0.8-5.3]",
+    "id": "BN"
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": "2020",
+    "Male": "38.4 [25.6-50.9]",
+    "Female": "24.9 [15.4-34.7]",
+    "id": "BG"
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": "2020",
+    "Male": "41.8 [23.3-65.4]",
+    "Female": "3.6 [1.4-6.3]",
+    "id": "BF"
+  },
+  {
+    "Country": "Cabo Verde",
+    "Year": "2020",
+    "Male": "26.0 [13.2-42.3]",
+    "Female": "3.0 [1.2-5.0]",
+    "id": "CV"
+  },
+  {
+    "Country": "Cambodia",
+    "Year": "2020",
+    "Male": "42.5 [25.6-63.1]",
+    "Female": "2.0 [1.4-2.7]",
+    "id": "KH"
+  },
+  {
+    "Country": "Cameroon",
+    "Year": "2020",
+    "Male": "65.9 [42.3-100.0]",
+    "Female": "0.9 [0.3-1.8]",
+    "id": "CM"
+  },
+  {
+    "Country": "Canada",
+    "Year": "2020",
+    "Male": "14.8 [11.7-18.1]",
+    "Female": "9.4 [7.4-11.4]",
+    "id": "CA"
+  },
+  {
+    "Country": "Chile",
+    "Year": "2020",
+    "Male": "37.6 [24.3-53.9]",
+    "Female": "34.1 [21.6-49.0]",
+    "id": "CL"
+  },
+  {
+    "Country": "China",
+    "Year": "2020",
+    "Male": "45.7 [33.4-60.3]",
+    "Female": "1.4 [0.9-1.9]",
+    "id": "CN"
+  },
+  {
+    "Country": "Colombia",
+    "Year": "2020",
+    "Male": "14.0 [5.1-24.5]",
+    "Female": "5.2 [2.1-9.4]",
+    "id": "CO"
+  },
+  {
+    "Country": "Comoros",
+    "Year": "2020",
+    "Male": "21.2 [11.8-31.9]",
+    "Female": "4.6 [1.7-7.5]",
+    "id": "KM"
+  },
+  {
+    "Country": "Congo",
+    "Year": "2020",
+    "Male": "69.6 [45.6-97.6]",
+    "Female": "1.8 [0.8-3.1]",
+    "id": "CG"
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": "2020",
+    "Male": "16.5 [6.6-27.8]",
+    "Female": "7.2 [3.2-13.1]",
+    "id": "CR"
+  },
+  {
+    "Country": "Croatia",
+    "Year": "2020",
+    "Male": "39.3 [26.3-54.1]",
+    "Female": "36.1 [22.6-48.7]",
+    "id": "HR"
+  },
+  {
+    "Country": "Cuba",
+    "Year": "2020",
+    "Male": "52.6 [24.3-100.0]",
+    "Female": "15.1 [3.9-27.8]",
+    "id": "CU"
+  },
+  {
+    "Country": "Czechia",
+    "Year": "2020",
+    "Male": "36.5 [26.3-46.7]",
+    "Female": "28.9 [20.1-38.6]",
+    "id": "CZ"
+  },
+  {
+    "Country": "Denmark",
+    "Year": "2020",
+    "Male": "13.4 [9.2-18.4]",
+    "Female": "12.9 [9.1-17.6]",
+    "id": "DK"
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": "2020",
+    "Male": "18.1 [9.2-29.3]",
+    "Female": "8.2 [3.9-13.0]",
+    "id": "DO"
+  },
+  {
+    "Country": "Ecuador",
+    "Year": "2020",
+    "Male": "12.3 [5.7-20.5]",
+    "Female": "2.8 [1.0-4.8]",
+    "id": "EC"
+  },
+  {
+    "Country": "Egypt",
+    "Year": "2020",
+    "Male": "56.3 [34.9-85.0]",
+    "Female": "0.2 [0.1-0.3]",
+    "id": "EG"
+  },
+  {
+    "Country": "Estonia",
+    "Year": "2020",
+    "Male": "37.5 [27.7-49.4]",
+    "Female": "24.3 [17.9-32.0]",
+    "id": "EE"
+  },
+  {
+    "Country": "Eswatini",
+    "Year": "2020",
+    "Male": "20.3 [11.9-31.3]",
+    "Female": "2.0 [1.0-3.3]",
+    "id": "SZ"
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": "2020",
+    "Male": "9.0 [5.5-12.9]",
+    "Female": "0.5 [0.2-0.8]",
+    "id": "ET"
+  },
+  {
+    "Country": "Fiji",
+    "Year": "2020",
+    "Male": "35.8 [10.2-66.3]",
+    "Female": "11.9 [4.2-22.4]",
+    "id": "FJ"
+  },
+  {
+    "Country": "Finland",
+    "Year": "2020",
+    "Male": "20.6 [15.7-25.8]",
+    "Female": "16.7 [12.9-21.0]",
+    "id": "FI"
+  },
+  {
+    "Country": "France",
+    "Year": "2020",
+    "Male": "27.7 [18.6-39.1]",
+    "Female": "24.9 [16.3-35.3]",
+    "id": "FR"
+  },
+  {
+    "Country": "Georgia",
+    "Year": "2020",
+    "Male": "56.0 [37.6-78.8]",
+    "Female": "5.5 [3.6-7.9]",
+    "id": "GE"
+  },
+  {
+    "Country": "Germany",
+    "Year": "2020",
+    "Male": "30.7 [23.5-39.0]",
+    "Female": "27.7 [20.5-35.0]",
+    "id": "DE"
+  },
+  {
+    "Country": "Ghana",
+    "Year": "2020",
+    "Male": "14.9 [7.7-23.7]",
+    "Female": "0.4 [0.2-0.6]",
+    "id": "GH"
+  },
+  {
+    "Country": "Greece",
+    "Year": "2020",
+    "Male": "49.7 [31.3-69.7]",
+    "Female": "30.2 [15.6-44.7]",
+    "id": "GR"
+  },
+  {
+    "Country": "Haiti",
+    "Year": "2020",
+    "Male": "23.7 [11.4-39.5]",
+    "Female": "2.2 [1.0-3.8]",
+    "id": "HT"
+  },
+  {
+    "Country": "Honduras",
+    "Year": "2020",
+    "Male": "27.8 [14.8-42.1]",
+    "Female": "1.7 [0.8-2.9]",
+    "id": "HN"
+  },
+  {
+    "Country": "Hungary",
+    "Year": "2020",
+    "Male": "28.3 [20.2-38.6]",
+    "Female": "22.4 [14.7-30.0]",
+    "id": "HU"
+  },
+  {
+    "Country": "Iceland",
+    "Year": "2020",
+    "Male": "13.7 [7.9-21.2]",
+    "Female": "12.6 [7.3-18.3]",
+    "id": "IS"
+  },
+  {
+    "Country": "India",
+    "Year": "2020",
+    "Male": "17.2 [9.6-25.6]",
+    "Female": "1.2 [0.7-1.8]",
+    "id": "IN"
+  },
+  {
+    "Country": "Indonesia",
+    "Year": "2020",
+    "Male": "82.7 [62.5-100.0]",
+    "Female": "3.0 [2.0-4.1]",
+    "id": "ID"
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "Year": "2020",
+    "Male": "19.4 [11.2-28.0]",
+    "Female": "0.4 [0.2-0.6]",
+    "id": "IR"
+  },
+  {
+    "Country": "Ireland",
+    "Year": "2020",
+    "Male": "20.0 [11.3-29.7]",
+    "Female": "19.8 [11.6-28.7]",
+    "id": "IE"
+  },
+  {
+    "Country": "Israel",
+    "Year": "2020",
+    "Male": "41.0 [21.8-63.7]",
+    "Female": "18.7 [9.7-28.0]",
+    "id": "IL"
+  },
+  {
+    "Country": "Italy",
+    "Year": "2020",
+    "Male": "26.9 [20.8-32.2]",
+    "Female": "19.6 [15.2-24.1]",
+    "id": "IT"
+  },
+  {
+    "Country": "Jamaica",
+    "Year": "2020",
+    "Male": "30.7 [12.4-52.2]",
+    "Female": "5.2 [2.1-9.1]",
+    "id": "JM"
+  },
+  {
+    "Country": "Japan",
+    "Year": "2020",
+    "Male": "29.2 [20.5-38.4]",
+    "Female": "9.6 [6.4-12.9]",
+    "id": "JP"
+  },
+  {
+    "Country": "Jordan",
+    "Year": "2020",
+    "Male": "80.4 [51.2-100.0]",
+    "Female": "12.1 [6.7-18.1]",
+    "id": "JO"
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": "2020",
+    "Male": "40.3 [27.3-55.6]",
+    "Female": "8.7 [4.7-12.6]",
+    "id": "KZ"
+  },
+  {
+    "Country": "Kenya",
+    "Year": "2020",
+    "Male": "22.9 [13.2-33.8]",
+    "Female": "1.9 [1.0-3.2]",
+    "id": "KE"
+  },
+  {
+    "Country": "Kiribati",
+    "Year": "2020",
+    "Male": "59.1 [30.4-92.1]",
+    "Female": "38.8 [17.0-64.0]",
+    "id": "KI"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Year": "2020",
+    "Male": "50.3 [36.2-65.7]",
+    "Female": "3.3 [2.0-4.9]",
+    "id": "KG"
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Year": "2020",
+    "Male": "51.9 [33.0-70.6]",
+    "Female": "7.0 [4.2-10.1]",
+    "id": "LA"
+  },
+  {
+    "Country": "Latvia",
+    "Year": "2020",
+    "Male": "46.5 [32.2-61.6]",
+    "Female": "24.2 [16.7-32.0]",
+    "id": "LV"
+  },
+  {
+    "Country": "Lebanon",
+    "Year": "2020",
+    "Male": "50.2 [28.9-71.0]",
+    "Female": "34.1 [21.3-49.8]",
+    "id": "LB"
+  },
+  {
+    "Country": "Lesotho",
+    "Year": "2020",
+    "Male": "64.3 [39.1-89.5]",
+    "Female": "0.4 [0.2-0.7]",
+    "id": "LS"
+  },
+  {
+    "Country": "Liberia",
+    "Year": "2020",
+    "Male": "32.0 [14.1-53.0]",
+    "Female": "2.0 [0.7-3.4]",
+    "id": "LR"
+  },
+  {
+    "Country": "Lithuania",
+    "Year": "2020",
+    "Male": "34.2 [22.2-44.9]",
+    "Female": "22.9 [14.7-32.2]",
+    "id": "LT"
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": "2020",
+    "Male": "23.8 [15.9-33.8]",
+    "Female": "20.4 [12.8-29.7]",
+    "id": "LU"
+  },
+  {
+    "Country": "Malawi",
+    "Year": "2020",
+    "Male": "23.5 [16.2-31.9]",
+    "Female": "5.2 [2.6-8.6]",
+    "id": "MW"
+  },
+  {
+    "Country": "Malaysia",
+    "Year": "2020",
+    "Male": "40.2 [23.1-64.2]",
+    "Female": "1.1 [0.5-1.8]",
+    "id": "MY"
+  },
+  {
+    "Country": "Mali",
+    "Year": "2020",
+    "Male": "45.1 [25.2-65.7]",
+    "Female": "3.0 [1.5-4.7]",
+    "id": "ML"
+  },
+  {
+    "Country": "Malta",
+    "Year": "2020",
+    "Male": "27.7 [16.6-40.7]",
+    "Female": "18.6 [11.5-27.1]",
+    "id": "MT"
+  },
+  {
+    "Country": "Mauritania",
+    "Year": "2020",
+    "Male": "54.3 [30.2-83.2]",
+    "Female": "3.2 [1.5-5.1]",
+    "id": "MR"
+  },
+  {
+    "Country": "Mauritius",
+    "Year": "2020",
+    "Male": "38.6 [22.8-54.2]",
+    "Female": "2.9 [1.7-4.4]",
+    "id": "MU"
+  },
+  {
+    "Country": "Mexico",
+    "Year": "2020",
+    "Male": "17.3 [12.9-22.0]",
+    "Female": "5.3 [3.8-7.1]",
+    "id": "MX"
+  },
+  {
+    "Country": "Mongolia",
+    "Year": "2020",
+    "Male": "45.4 [31.9-61.7]",
+    "Female": "4.5 [2.9-6.3]",
+    "id": "MN"
+  },
+  {
+    "Country": "Morocco",
+    "Year": "2020",
+    "Male": "51.3 [26.9-79.3]",
+    "Female": "1.0 [0.4-1.8]",
+    "id": "MA"
+  },
+  {
+    "Country": "Mozambique",
+    "Year": "2020",
+    "Male": "28.8 [16.3-44.1]",
+    "Female": "5.5 [2.2-9.4]",
+    "id": "MZ"
+  },
+  {
+    "Country": "Myanmar",
+    "Year": "2020",
+    "Male": "26.2 [13.5-39.8]",
+    "Female": "4.9 [1.7-8.4]",
+    "id": "MM"
+  },
+  {
+    "Country": "Namibia",
+    "Year": "2020",
+    "Male": "42.9 [23.7-65.8]",
+    "Female": "10.5 [5.8-15.5]",
+    "id": "NA"
+  },
+  {
+    "Country": "Nauru",
+    "Year": "2020",
+    "Male": "39.5 [17.3-65.6]",
+    "Female": "49.2 [21.6-84.1]",
+    "id": "NR"
+  },
+  {
+    "Country": "Nepal",
+    "Year": "2020",
+    "Male": "34.7 [23.6-44.9]",
+    "Female": "7.7 [4.8-10.6]",
+    "id": "NP"
+  },
+  {
+    "Country": "Netherlands",
+    "Year": "2020",
+    "Male": "22.9 [16.3-28.8]",
+    "Female": "22.1 [15.7-28.4]",
+    "id": "NL"
+  },
+  {
+    "Country": "Niger",
+    "Year": "2020",
+    "Male": "24.0 [14.8-34.4]",
+    "Female": "0.2 [0.1-0.3]",
+    "id": "NE"
+  },
+  {
+    "Country": "Nigeria",
+    "Year": "2020",
+    "Male": "20.2 [8.0-35.4]",
+    "Female": "0.9 [0.3-1.6]",
+    "id": "NG"
+  },
+  {
+    "Country": "Niue",
+    "Year": "2020",
+    "Male": "18.2 [9.8-27.0]",
+    "Female": "10.3 [5.4-15.6]",
+    "id": "NU"
+  },
+  {
+    "Country": "Norway",
+    "Year": "2020",
+    "Male": "17.9 [14.3-21.7]",
+    "Female": "18.1 [14.5-22.4]",
+    "id": "NO"
+  },
+  {
+    "Country": "Oman",
+    "Year": "2020",
+    "Male": "25.4 [9.5-43.2]",
+    "Female": "1.1 [0.3-2.1]",
+    "id": "OM"
+  },
+  {
+    "Country": "Pakistan",
+    "Year": "2020",
+    "Male": "43.9 [26.0-64.8]",
+    "Female": "2.1 [1.2-3.5]",
+    "id": "PK"
+  },
+  {
+    "Country": "Panama",
+    "Year": "2020",
+    "Male": "8.0 [4.7-11.8]",
+    "Female": "2.1 [1.2-3.1]",
+    "id": "PA"
+  },
+  {
+    "Country": "Paraguay",
+    "Year": "2020",
+    "Male": "24.4 [13.1-36.7]",
+    "Female": "6.5 [3.5-10.5]",
+    "id": "PY"
+  },
+  {
+    "Country": "Peru",
+    "Year": "2020",
+    "Male": "",
+    "Female": "5.0 [3.3-7.1]",
+    "id": "PE"
+  },
+  {
+    "Country": "Philippines",
+    "Year": "2020",
+    "Male": "39.0 [27.6-50.7]",
+    "Female": "7.4 [5.3-9.7]",
+    "id": "PH"
+  },
+  {
+    "Country": "Poland",
+    "Year": "2020",
+    "Male": "28.9 [19.7-38.8]",
+    "Female": "20.6 [13.7-28.3]",
+    "id": "PL"
+  },
+  {
+    "Country": "Portugal",
+    "Year": "2020",
+    "Male": "30.3 [19.5-42.8]",
+    "Female": "13.2 [7.1-20.2]",
+    "id": "PT"
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": "2020",
+    "Male": "46.9 [26.4-68.5]",
+    "Female": "3.8 [1.8-6.4]",
+    "id": "QA"
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": "2020",
+    "Male": "47.8 [34.2-61.9]",
+    "Female": "5.4 [3.8-7.2]",
+    "id": "QA"
+  },
+  {
+    "Country": "Romania",
+    "Year": "2020",
+    "Male": "33.1 [21.4-45.0]",
+    "Female": "21.3 [14.6-29.3]",
+    "id": "RO"
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": "2020",
+    "Male": "56.8 [41.4-75.7]",
+    "Female": "23.4 [16.5-32.6]",
+    "id": "RU"
+  },
+  {
+    "Country": "Rwanda",
+    "Year": "2020",
+    "Male": "",
+    "Female": "5.2 [2.5-8.0]",
+    "id": "RW"
+  },
+  {
+    "Country": "Samoa",
+    "Year": "2020",
+    "Male": "35.9 [21.9-51.7]",
+    "Female": "17.3 [9.7-24.7]",
+    "id": "WS"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Year": "2020",
+    "Male": "31.4 [18.7-45.1]",
+    "Female": "2.7 [0.9-4.8]",
+    "id": "SA"
+  },
+  {
+    "Country": "Senegal",
+    "Year": "2020",
+    "Male": "25.8 [17.8-35.2]",
+    "Female": "0.6 [0.3-0.9]",
+    "id": "SN"
+  },
+  {
+    "Country": "Serbia",
+    "Year": "2020",
+    "Male": "40.6 [29.2-55.5]",
+    "Female": "39.3 [25.9-53.9]",
+    "id": "RS"
+  },
+  {
+    "Country": "Seychelles",
+    "Year": "2020",
+    "Male": "42.1 [24.5-62.7]",
+    "Female": "8.2 [4.6-12.0]",
+    "id": "SC"
+  },
+  {
+    "Country": "Sierra Leone",
+    "Year": "2020",
+    "Male": "68.6 [43.6-96.7]",
+    "Female": "10.2 [5.0-15.6]",
+    "id": "SL"
+  },
+  {
+    "Country": "Singapore",
+    "Year": "2020",
+    "Male": "28.3 [18.3-40.2]",
+    "Female": "4.9 [3.0-7.1]",
+    "id": "SG"
+  },
+  {
+    "Country": "Slovakia",
+    "Year": "2020",
+    "Male": "38.1 [19.1-62.7]",
+    "Female": "16.8 [6.9-28.1]",
+    "id": "SK"
+  },
+  {
+    "Country": "Slovenia",
+    "Year": "2020",
+    "Male": "20.4 [13.5-28.8]",
+    "Female": "17.0 [11.0-23.4]",
+    "id": "SI"
+  },
+  {
+    "Country": "South Africa",
+    "Year": "2020",
+    "Male": "30.4 [20.3-42.6]",
+    "Female": "5.2 [3.3-7.2]",
+    "id": "ZA"
+  },
+  {
+    "Country": "Spain",
+    "Year": "2020",
+    "Male": "28.0 [20.6-36.6]",
+    "Female": "25.7 [18.9-33.2]",
+    "id": "ES"
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": "2020",
+    "Male": "28.1 [12.6-47.1]",
+    "Female": "0.2 [0.1-0.4]",
+    "id": "LK"
+  },
+  {
+    "Country": "Sweden",
+    "Year": "2020",
+    "Male": "17.5 [13.8-21.9]",
+    "Female": "17.6 [13.7-22.5]",
+    "id": "SE"
+  },
+  {
+    "Country": "Switzerland",
+    "Year": "2020",
+    "Male": "24.7 [19.3-31.0]",
+    "Female": "18.1 [13.9-22.6]",
+    "id": "CH"
+  },
+  {
+    "Country": "Thailand",
+    "Year": "2020",
+    "Male": "39.7 [31.7-48.8]",
+    "Female": "2.1 [1.5-2.6]",
+    "id": "TH"
+  },
+  {
+    "Country": "Tonga",
+    "Year": "2020",
+    "Male": "45.6 [26.8-63.4]",
+    "Female": "12.4 [7.7-17.8]",
+    "id": "TO"
+  },
+  {
+    "Country": "Turkey",
+    "Year": "2020",
+    "Male": "34.7 [24.6-43.8]",
+    "Female": "10.6 [7.9-13.9]",
+    "id": "TR"
+  },
+  {
+    "Country": "Uganda",
+    "Year": "2020",
+    "Male": "13.8 [8.4-20.2]",
+    "Female": "2.4 [1.5-3.6]",
+    "id": "UG"
+  },
+  {
+    "Country": "Ukraine",
+    "Year": "2020",
+    "Male": "46.3 [35.6-59.0]",
+    "Female": "13.5 [10.3-17.4]",
+    "id": "UA"
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": "2020",
+    "Male": "17.3 [12.4-23.5]",
+    "Female": "15.9 [11.1-22.3]",
+    "id": "GB"
+  },
+  {
+    "Country": "Tanzania",
+    "Year": " United Republic of",
+    "Male": "2020",
+    "Female": "25.1 [16.2-37.1]",
+    "id": "3.5 [1.9-5.5]"
+  },
+  {
+    "Country": "United States of America",
+    "Year": "2020",
+    "Male": "17.4 [13.6-21.2]",
+    "Female": "13.0 [10.0-16.5]",
+    "id": "US"
+  },
+  {
+    "Country": "Uruguay",
+    "Year": "2020",
+    "Male": "22.0 [16.3-29.8]",
+    "Female": "15.7 [11.1-20.9]",
+    "id": "UY"
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": "2020",
+    "Male": "23.8 [12.5-37.4]",
+    "Female": "1.2 [0.5-2.1]",
+    "id": "UZ"
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": "2020",
+    "Male": "46.2 [32.8-62.2]",
+    "Female": "1.1 [0.7-1.6]",
+    "id": "VN"
+  },
+  {
+    "Country": "Zambia",
+    "Year": "2020",
+    "Male": "25.5 [13.7-37.4]",
+    "Female": "4.2 [2.0-7.2]",
+    "id": "ZM"
+  },
+  {
+    "Country": "Zimbabwe",
+    "Year": "2020",
+    "Male": "30.6 [19.1-43.8]",
+    "Female": "1.9 [0.9-3.2]",
+    "id": "ZW"
+  }
+]

@@ -1,0 +1,1049 @@
+[
+  {
+    "name": "> 50",
+    "limit": 50,
+    "data": [
+      {
+        "Country": "Kiribati",
+        "Year": "2010",
+        "Male": 69.3,
+        "Female": 43.7,
+        "id": "KI",
+        "Average": 56.5
+      },
+      {
+        "Country": "Nauru",
+        "Year": "2010",
+        "Male": 46.9,
+        "Female": 55.5,
+        "id": "NR",
+        "Average": 51.2
+      },
+      {
+        "Country": "Tanzania",
+        "Year": " United Republic of",
+        "Male": 2010,
+        "Female": 30.3,
+        "id": "4.1 [2.5-6.1]",
+        "Average": 1020.15
+      }
+    ]
+  },
+  {
+    "name": "30 - 50",
+    "limit": 30,
+    "data": [
+      {
+        "Country": "Albania",
+        "Year": "2010",
+        "Male": 53.1,
+        "Female": 8.7,
+        "id": "AL",
+        "Average": 30.9
+      },
+      {
+        "Country": "Andorra",
+        "Year": "2010",
+        "Male": 39.2,
+        "Female": 28.8,
+        "id": "AD",
+        "Average": 34
+      },
+      {
+        "Country": "Austria",
+        "Year": "2010",
+        "Male": 38.8,
+        "Female": 36.7,
+        "id": "AT",
+        "Average": 37.75
+      },
+      {
+        "Country": "Belarus",
+        "Year": "2010",
+        "Male": 51.3,
+        "Female": 11.4,
+        "id": "BY",
+        "Average": 31.35
+      },
+      {
+        "Country": "Bosnia and Herzegovina",
+        "Year": "2010",
+        "Male": 50,
+        "Female": 31.7,
+        "id": "BA",
+        "Average": 40.85
+      },
+      {
+        "Country": "Bulgaria",
+        "Year": "2010",
+        "Male": 47.1,
+        "Female": 32,
+        "id": "BG",
+        "Average": 39.55
+      },
+      {
+        "Country": "Chile",
+        "Year": "2010",
+        "Male": 42.8,
+        "Female": 38.3,
+        "id": "CL",
+        "Average": 40.55
+      },
+      {
+        "Country": "Croatia",
+        "Year": "2010",
+        "Male": 39.4,
+        "Female": 31.6,
+        "id": "HR",
+        "Average": 35.5
+      },
+      {
+        "Country": "Cuba",
+        "Year": "2010",
+        "Male": 53.2,
+        "Female": 21.3,
+        "id": "CU",
+        "Average": 37.25
+      },
+      {
+        "Country": "Czechia",
+        "Year": "2010",
+        "Male": 38.5,
+        "Female": 29.2,
+        "id": "CZ",
+        "Average": 33.85
+      },
+      {
+        "Country": "Estonia",
+        "Year": "2010",
+        "Male": 45.2,
+        "Female": 25.6,
+        "id": "EE",
+        "Average": 35.4
+      },
+      {
+        "Country": "Georgia",
+        "Year": "2010",
+        "Male": 59.6,
+        "Female": 6,
+        "id": "GE",
+        "Average": 32.8
+      },
+      {
+        "Country": "Germany",
+        "Year": "2010",
+        "Male": 34.3,
+        "Female": 29,
+        "id": "DE",
+        "Average": 31.65
+      },
+      {
+        "Country": "Greece",
+        "Year": "2010",
+        "Male": 55.6,
+        "Female": 35.2,
+        "id": "GR",
+        "Average": 45.4
+      },
+      {
+        "Country": "Hungary",
+        "Year": "2010",
+        "Male": 35.9,
+        "Female": 27.5,
+        "id": "HU",
+        "Average": 31.7
+      },
+      {
+        "Country": "Indonesia",
+        "Year": "2010",
+        "Male": 68.4,
+        "Female": 4.2,
+        "id": "ID",
+        "Average": 36.3
+      },
+      {
+        "Country": "Israel",
+        "Year": "2010",
+        "Male": 41.8,
+        "Female": 20.4,
+        "id": "IL",
+        "Average": 31.1
+      },
+      {
+        "Country": "Jordan",
+        "Year": "2010",
+        "Male": 58.9,
+        "Female": 9.5,
+        "id": "JO",
+        "Average": 34.2
+      },
+      {
+        "Country": "Lao People's Democratic Republic",
+        "Year": "2010",
+        "Male": 61.7,
+        "Female": 11.9,
+        "id": "LA",
+        "Average": 36.8
+      },
+      {
+        "Country": "Latvia",
+        "Year": "2010",
+        "Male": 51.6,
+        "Female": 24.4,
+        "id": "LV",
+        "Average": 38
+      },
+      {
+        "Country": "Lebanon",
+        "Year": "2010",
+        "Male": 41.7,
+        "Female": 28.3,
+        "id": "LB",
+        "Average": 35
+      },
+      {
+        "Country": "Lithuania",
+        "Year": "2010",
+        "Male": 42.3,
+        "Female": 21.8,
+        "id": "LT",
+        "Average": 32.05
+      },
+      {
+        "Country": "Poland",
+        "Year": "2010",
+        "Male": 36.5,
+        "Female": 27.7,
+        "id": "PL",
+        "Average": 32.1
+      },
+      {
+        "Country": "Romania",
+        "Year": "2010",
+        "Male": 41.4,
+        "Female": 23.9,
+        "id": "RO",
+        "Average": 32.65
+      },
+      {
+        "Country": "Russian Federation",
+        "Year": "2010",
+        "Male": 61.2,
+        "Female": 22.4,
+        "id": "RU",
+        "Average": 41.8
+      },
+      {
+        "Country": "Samoa",
+        "Year": "2010",
+        "Male": 47.4,
+        "Female": 20.9,
+        "id": "WS",
+        "Average": 34.15
+      },
+      {
+        "Country": "Serbia",
+        "Year": "2010",
+        "Male": 46.8,
+        "Female": 40.2,
+        "id": "RS",
+        "Average": 43.5
+      },
+      {
+        "Country": "Sierra Leone",
+        "Year": "2010",
+        "Male": 52.1,
+        "Female": 14.4,
+        "id": "SL",
+        "Average": 33.25
+      },
+      {
+        "Country": "Spain",
+        "Year": "2010",
+        "Male": 35.3,
+        "Female": 28.6,
+        "id": "ES",
+        "Average": 31.95
+      },
+      {
+        "Country": "Tonga",
+        "Year": "2010",
+        "Male": 49.3,
+        "Female": 13.6,
+        "id": "TO",
+        "Average": 31.45
+      },
+      {
+        "Country": "Ukraine",
+        "Year": "2010",
+        "Male": 52.6,
+        "Female": 14.6,
+        "id": "UA",
+        "Average": 33.6
+      }
+    ]
+  },
+  {
+    "name": "15 - 30",
+    "limit": 15,
+    "data": [
+      {
+        "Country": "Argentina",
+        "Year": "2010",
+        "Male": 33.4,
+        "Female": 22.4,
+        "id": "AR",
+        "Average": 27.9
+      },
+      {
+        "Country": "Armenia",
+        "Year": "2010",
+        "Male": 56.7,
+        "Female": 1.8,
+        "id": "AM",
+        "Average": 29.25
+      },
+      {
+        "Country": "Australia",
+        "Year": "2010",
+        "Male": 19.6,
+        "Female": 15.8,
+        "id": "AU",
+        "Average": 17.7
+      },
+      {
+        "Country": "Azerbaijan",
+        "Year": "2010",
+        "Male": 49.9,
+        "Female": 0.5,
+        "id": "AZ",
+        "Average": 25.2
+      },
+      {
+        "Country": "Bahrain",
+        "Year": "2010",
+        "Male": 34.8,
+        "Female": 6.5,
+        "id": "BH",
+        "Average": 20.65
+      },
+      {
+        "Country": "Bangladesh",
+        "Year": "2010",
+        "Male": 46.6,
+        "Female": 1.4,
+        "id": "BD",
+        "Average": 24
+      },
+      {
+        "Country": "Belgium",
+        "Year": "2010",
+        "Male": 29.1,
+        "Female": 21.3,
+        "id": "BE",
+        "Average": 25.2
+      },
+      {
+        "Country": "Bolivia (Plurinational State of)",
+        "Year": "2010",
+        "Male": 35.8,
+        "Female": 19.7,
+        "id": "BO",
+        "Average": 27.75
+      },
+      {
+        "Country": "Brazil",
+        "Year": "2010",
+        "Male": 22.2,
+        "Female": 13.3,
+        "id": "BR",
+        "Average": 17.75
+      },
+      {
+        "Country": "Brunei Darussalam",
+        "Year": "2010",
+        "Male": 29.1,
+        "Female": 3.6,
+        "id": "BN",
+        "Average": 16.35
+      },
+      {
+        "Country": "Burkina Faso",
+        "Year": "2010",
+        "Male": 31.1,
+        "Female": 5.5,
+        "id": "BF",
+        "Average": 18.3
+      },
+      {
+        "Country": "Cambodia",
+        "Year": "2010",
+        "Male": 46,
+        "Female": 4,
+        "id": "KH",
+        "Average": 25
+      },
+      {
+        "Country": "Canada",
+        "Year": "2010",
+        "Male": 20.9,
+        "Female": 15.8,
+        "id": "CA",
+        "Average": 18.35
+      },
+      {
+        "Country": "China",
+        "Year": "2010",
+        "Male": 50.1,
+        "Female": 2.2,
+        "id": "CN",
+        "Average": 26.15
+      },
+      {
+        "Country": "Comoros",
+        "Year": "2010",
+        "Male": 25.2,
+        "Female": 7.9,
+        "id": "KM",
+        "Average": 16.55
+      },
+      {
+        "Country": "Costa Rica",
+        "Year": "2010",
+        "Male": 20.9,
+        "Female": 9.8,
+        "id": "CR",
+        "Average": 15.35
+      },
+      {
+        "Country": "Denmark",
+        "Year": "2010",
+        "Male": 23.4,
+        "Female": 20.9,
+        "id": "DK",
+        "Average": 22.15
+      },
+      {
+        "Country": "Dominican Republic",
+        "Year": "2010",
+        "Male": 19.5,
+        "Female": 10.9,
+        "id": "DO",
+        "Average": 15.2
+      },
+      {
+        "Country": "Egypt",
+        "Year": "2010",
+        "Male": 43.9,
+        "Female": 0.5,
+        "id": "EG",
+        "Average": 22.2
+      },
+      {
+        "Country": "Fiji",
+        "Year": "2010",
+        "Male": 42.3,
+        "Female": 13.1,
+        "id": "FJ",
+        "Average": 27.7
+      },
+      {
+        "Country": "Finland",
+        "Year": "2010",
+        "Male": 26.3,
+        "Female": 20.6,
+        "id": "FI",
+        "Average": 23.45
+      },
+      {
+        "Country": "France",
+        "Year": "2010",
+        "Male": 32.1,
+        "Female": 26.2,
+        "id": "FR",
+        "Average": 29.15
+      },
+      {
+        "Country": "Honduras",
+        "Year": "2010",
+        "Male": 40.3,
+        "Female": 2.7,
+        "id": "HN",
+        "Average": 21.5
+      },
+      {
+        "Country": "Iceland",
+        "Year": "2010",
+        "Male": 21.1,
+        "Female": 18.1,
+        "id": "IS",
+        "Average": 19.6
+      },
+      {
+        "Country": "Ireland",
+        "Year": "2010",
+        "Male": 25.5,
+        "Female": 24.4,
+        "id": "IE",
+        "Average": 24.95
+      },
+      {
+        "Country": "Italy",
+        "Year": "2010",
+        "Male": 29.7,
+        "Female": 19.8,
+        "id": "IT",
+        "Average": 24.75
+      },
+      {
+        "Country": "Jamaica",
+        "Year": "2010",
+        "Male": 29.3,
+        "Female": 6.7,
+        "id": "JM",
+        "Average": 18
+      },
+      {
+        "Country": "Japan",
+        "Year": "2010",
+        "Male": 38.4,
+        "Female": 11.7,
+        "id": "JP",
+        "Average": 25.05
+      },
+      {
+        "Country": "Kazakhstan",
+        "Year": "2010",
+        "Male": 47.8,
+        "Female": 9.9,
+        "id": "KZ",
+        "Average": 28.85
+      },
+      {
+        "Country": "Kyrgyzstan",
+        "Year": "2010",
+        "Male": 50.4,
+        "Female": 3.9,
+        "id": "KG",
+        "Average": 27.15
+      },
+      {
+        "Country": "Lesotho",
+        "Year": "2010",
+        "Male": 47.2,
+        "Female": 0.5,
+        "id": "LS",
+        "Average": 23.85
+      },
+      {
+        "Country": "Luxembourg",
+        "Year": "2010",
+        "Male": 28.4,
+        "Female": 22.7,
+        "id": "LU",
+        "Average": 25.55
+      },
+      {
+        "Country": "Malawi",
+        "Year": "2010",
+        "Male": 27.6,
+        "Female": 7,
+        "id": "MW",
+        "Average": 17.3
+      },
+      {
+        "Country": "Malaysia",
+        "Year": "2010",
+        "Male": 46.2,
+        "Female": 1.8,
+        "id": "MY",
+        "Average": 24
+      },
+      {
+        "Country": "Mali",
+        "Year": "2010",
+        "Male": 30.3,
+        "Female": 3.5,
+        "id": "ML",
+        "Average": 16.9
+      },
+      {
+        "Country": "Malta",
+        "Year": "2010",
+        "Male": 32.5,
+        "Female": 22,
+        "id": "MT",
+        "Average": 27.25
+      },
+      {
+        "Country": "Mauritania",
+        "Year": "2010",
+        "Male": 35.8,
+        "Female": 4.2,
+        "id": "MR",
+        "Average": 20
+      },
+      {
+        "Country": "Mauritius",
+        "Year": "2010",
+        "Male": 42,
+        "Female": 3.7,
+        "id": "MU",
+        "Average": 22.85
+      },
+      {
+        "Country": "Mexico",
+        "Year": "2010",
+        "Male": 25.1,
+        "Female": 8.4,
+        "id": "MX",
+        "Average": 16.75
+      },
+      {
+        "Country": "Mongolia",
+        "Year": "2010",
+        "Male": 50.3,
+        "Female": 6.3,
+        "id": "MN",
+        "Average": 28.3
+      },
+      {
+        "Country": "Morocco",
+        "Year": "2010",
+        "Male": 40.6,
+        "Female": 1.9,
+        "id": "MA",
+        "Average": 21.25
+      },
+      {
+        "Country": "Mozambique",
+        "Year": "2010",
+        "Male": 34.8,
+        "Female": 6.4,
+        "id": "MZ",
+        "Average": 20.6
+      },
+      {
+        "Country": "Myanmar",
+        "Year": "2010",
+        "Male": 38.3,
+        "Female": 8.6,
+        "id": "MM",
+        "Average": 23.45
+      },
+      {
+        "Country": "Namibia",
+        "Year": "2010",
+        "Male": 35.1,
+        "Female": 12.3,
+        "id": "NA",
+        "Average": 23.7
+      },
+      {
+        "Country": "Nepal",
+        "Year": "2010",
+        "Male": 39.7,
+        "Female": 16.1,
+        "id": "NP",
+        "Average": 27.9
+      },
+      {
+        "Country": "Netherlands",
+        "Year": "2010",
+        "Male": 29.4,
+        "Female": 25.9,
+        "id": "NL",
+        "Average": 27.65
+      },
+      {
+        "Country": "Niue",
+        "Year": "2010",
+        "Male": 23.2,
+        "Female": 12.5,
+        "id": "NU",
+        "Average": 17.85
+      },
+      {
+        "Country": "Norway",
+        "Year": "2010",
+        "Male": 28,
+        "Female": 27.1,
+        "id": "NO",
+        "Average": 27.55
+      },
+      {
+        "Country": "Pakistan",
+        "Year": "2010",
+        "Male": 40.2,
+        "Female": 4.2,
+        "id": "PK",
+        "Average": 22.2
+      },
+      {
+        "Country": "Paraguay",
+        "Year": "2010",
+        "Male": 33.1,
+        "Female": 9.7,
+        "id": "PY",
+        "Average": 21.4
+      },
+      {
+        "Country": "Philippines",
+        "Year": "2010",
+        "Male": 47.6,
+        "Female": 9.7,
+        "id": "PH",
+        "Average": 28.65
+      },
+      {
+        "Country": "Portugal",
+        "Year": "2010",
+        "Male": 32.9,
+        "Female": 14.2,
+        "id": "PT",
+        "Average": 23.55
+      },
+      {
+        "Country": "Republic of Korea",
+        "Year": "2010",
+        "Male": 53.3,
+        "Female": 4.6,
+        "id": "QA",
+        "Average": 28.95
+      },
+      {
+        "Country": "Republic of Moldova",
+        "Year": "2010",
+        "Male": 44.1,
+        "Female": 5.4,
+        "id": "QA",
+        "Average": 24.75
+      },
+      {
+        "Country": "Seychelles",
+        "Year": "2010",
+        "Male": 44.8,
+        "Female": 9.5,
+        "id": "SC",
+        "Average": 27.15
+      },
+      {
+        "Country": "Singapore",
+        "Year": "2010",
+        "Male": 27.6,
+        "Female": 5.3,
+        "id": "SG",
+        "Average": 16.45
+      },
+      {
+        "Country": "Slovakia",
+        "Year": "2010",
+        "Male": 41.4,
+        "Female": 18.6,
+        "id": "SK",
+        "Average": 30
+      },
+      {
+        "Country": "Slovenia",
+        "Year": "2010",
+        "Male": 24.6,
+        "Female": 19.5,
+        "id": "SI",
+        "Average": 22.05
+      },
+      {
+        "Country": "South Africa",
+        "Year": "2010",
+        "Male": 32.5,
+        "Female": 8,
+        "id": "ZA",
+        "Average": 20.25
+      },
+      {
+        "Country": "Sweden",
+        "Year": "2010",
+        "Male": 23.8,
+        "Female": 24.5,
+        "id": "SE",
+        "Average": 24.15
+      },
+      {
+        "Country": "Switzerland",
+        "Year": "2010",
+        "Male": 29.2,
+        "Female": 21.7,
+        "id": "CH",
+        "Average": 25.45
+      },
+      {
+        "Country": "Thailand",
+        "Year": "2010",
+        "Male": 43.2,
+        "Female": 2.5,
+        "id": "TH",
+        "Average": 22.85
+      },
+      {
+        "Country": "Turkey",
+        "Year": "2010",
+        "Male": 45,
+        "Female": 14.4,
+        "id": "TR",
+        "Average": 29.7
+      },
+      {
+        "Country": "United Kingdom of Great Britain and Northern Ireland",
+        "Year": "2010",
+        "Male": 23,
+        "Female": 21.4,
+        "id": "GB",
+        "Average": 22.2
+      },
+      {
+        "Country": "United States of America",
+        "Year": "2010",
+        "Male": 22,
+        "Female": 17.3,
+        "id": "US",
+        "Average": 19.65
+      },
+      {
+        "Country": "Uruguay",
+        "Year": "2010",
+        "Male": 32.3,
+        "Female": 24,
+        "id": "UY",
+        "Average": 28.15
+      },
+      {
+        "Country": "Viet Nam",
+        "Year": "2010",
+        "Male": 48.3,
+        "Female": 1.4,
+        "id": "VN",
+        "Average": 24.85
+      },
+      {
+        "Country": "Zambia",
+        "Year": "2010",
+        "Male": 27.8,
+        "Female": 5,
+        "id": "ZM",
+        "Average": 16.4
+      },
+      {
+        "Country": "Zimbabwe",
+        "Year": "2010",
+        "Male": 31.8,
+        "Female": 2.4,
+        "id": "ZW",
+        "Average": 17.1
+      }
+    ]
+  },
+  {
+    "name": "5 - 15",
+    "limit": 5,
+    "data": [
+      {
+        "Country": "Barbados",
+        "Year": "2010",
+        "Male": 13.2,
+        "Female": 1.2,
+        "id": "BB",
+        "Average": 7.2
+      },
+      {
+        "Country": "Benin",
+        "Year": "2010",
+        "Male": 15.6,
+        "Female": 1.1,
+        "id": "BJ",
+        "Average": 8.35
+      },
+      {
+        "Country": "Cabo Verde",
+        "Year": "2010",
+        "Male": 19.1,
+        "Female": 4.1,
+        "id": "CV",
+        "Average": 11.6
+      },
+      {
+        "Country": "Cameroon",
+        "Year": "2010",
+        "Male": 28.5,
+        "Female": 0.9,
+        "id": "CM",
+        "Average": 14.7
+      },
+      {
+        "Country": "Colombia",
+        "Year": "2010",
+        "Male": 18.3,
+        "Female": 7.4,
+        "id": "CO",
+        "Average": 12.85
+      },
+      {
+        "Country": "Congo",
+        "Year": "2010",
+        "Male": 26.4,
+        "Female": 1.7,
+        "id": "CG",
+        "Average": 14.05
+      },
+      {
+        "Country": "Ecuador",
+        "Year": "2010",
+        "Male": 15.9,
+        "Female": 3.8,
+        "id": "EC",
+        "Average": 9.85
+      },
+      {
+        "Country": "Eswatini",
+        "Year": "2010",
+        "Male": 17.8,
+        "Female": 2.5,
+        "id": "SZ",
+        "Average": 10.15
+      },
+      {
+        "Country": "Ghana",
+        "Year": "2010",
+        "Male": 11.6,
+        "Female": 0.5,
+        "id": "GH",
+        "Average": 6.05
+      },
+      {
+        "Country": "Haiti",
+        "Year": "2010",
+        "Male": 20.7,
+        "Female": 2.9,
+        "id": "HT",
+        "Average": 11.8
+      },
+      {
+        "Country": "India",
+        "Year": "2010",
+        "Male": 24.4,
+        "Female": 2.9,
+        "id": "IN",
+        "Average": 13.65
+      },
+      {
+        "Country": "Iran (Islamic Republic of)",
+        "Year": "2010",
+        "Male": 23.8,
+        "Female": 1.5,
+        "id": "IR",
+        "Average": 12.65
+      },
+      {
+        "Country": "Kenya",
+        "Year": "2010",
+        "Male": 26.3,
+        "Female": 2.4,
+        "id": "KE",
+        "Average": 14.35
+      },
+      {
+        "Country": "Liberia",
+        "Year": "2010",
+        "Male": 23.9,
+        "Female": 2.8,
+        "id": "LR",
+        "Average": 13.35
+      },
+      {
+        "Country": "Niger",
+        "Year": "2010",
+        "Male": 14.4,
+        "Female": 0.2,
+        "id": "NE",
+        "Average": 7.3
+      },
+      {
+        "Country": "Nigeria",
+        "Year": "2010",
+        "Male": 15,
+        "Female": 1.3,
+        "id": "NG",
+        "Average": 8.15
+      },
+      {
+        "Country": "Oman",
+        "Year": "2010",
+        "Male": 17.5,
+        "Female": 1,
+        "id": "OM",
+        "Average": 9.25
+      },
+      {
+        "Country": "Panama",
+        "Year": "2010",
+        "Male": 14.1,
+        "Female": 3.2,
+        "id": "PA",
+        "Average": 8.65
+      },
+      {
+        "Country": "Saudi Arabia",
+        "Year": "2010",
+        "Male": 24.9,
+        "Female": 3,
+        "id": "SA",
+        "Average": 13.95
+      },
+      {
+        "Country": "Senegal",
+        "Year": "2010",
+        "Male": 21.2,
+        "Female": 0.9,
+        "id": "SN",
+        "Average": 11.05
+      },
+      {
+        "Country": "Sri Lanka",
+        "Year": "2010",
+        "Male": 29.3,
+        "Female": 0.6,
+        "id": "LK",
+        "Average": 14.95
+      },
+      {
+        "Country": "Uganda",
+        "Year": "2010",
+        "Male": 19.3,
+        "Female": 3.4,
+        "id": "UG",
+        "Average": 11.35
+      },
+      {
+        "Country": "Uzbekistan",
+        "Year": "2010",
+        "Male": 26.5,
+        "Female": 1.4,
+        "id": "UZ",
+        "Average": 13.95
+      }
+    ]
+  },
+  {
+    "name": "1 - 5",
+    "limit": 1,
+    "data": [
+      {
+        "Country": "Ethiopia",
+        "Year": "2010",
+        "Male": 9,
+        "Female": 0.5,
+        "id": "ET",
+        "Average": 4.75
+      }
+    ]
+  },
+  { "name": "< 1", "limit": 0, "data": [] }
+]

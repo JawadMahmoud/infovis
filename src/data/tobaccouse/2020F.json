@@ -1,0 +1,1049 @@
+[
+  {
+    "name": "> 50",
+    "limit": 50,
+    "data": [
+      {
+        "Country": "Tanzania",
+        "Year": " United Republic of",
+        "Male": 2020,
+        "Female": 25.1,
+        "id": "3.5 [1.9-5.5]",
+        "Average": 1022.55
+      }
+    ]
+  },
+  {
+    "name": "30 - 50",
+    "limit": 30,
+    "data": [
+      {
+        "Country": "Andorra",
+        "Year": "2020",
+        "Male": 35.6,
+        "Female": 26.8,
+        "id": "AD",
+        "Average": 31.2
+      },
+      {
+        "Country": "Austria",
+        "Year": "2020",
+        "Male": 32.7,
+        "Female": 33.3,
+        "id": "AT",
+        "Average": 33
+      },
+      {
+        "Country": "Bahrain",
+        "Year": "2020",
+        "Male": 67.5,
+        "Female": 9,
+        "id": "BH",
+        "Average": 38.25
+      },
+      {
+        "Country": "Bosnia and Herzegovina",
+        "Year": "2020",
+        "Male": 44.4,
+        "Female": 28.6,
+        "id": "BA",
+        "Average": 36.5
+      },
+      {
+        "Country": "Bulgaria",
+        "Year": "2020",
+        "Male": 38.4,
+        "Female": 24.9,
+        "id": "BG",
+        "Average": 31.65
+      },
+      {
+        "Country": "Cameroon",
+        "Year": "2020",
+        "Male": 65.9,
+        "Female": 0.9,
+        "id": "CM",
+        "Average": 33.4
+      },
+      {
+        "Country": "Chile",
+        "Year": "2020",
+        "Male": 37.6,
+        "Female": 34.1,
+        "id": "CL",
+        "Average": 35.85
+      },
+      {
+        "Country": "Congo",
+        "Year": "2020",
+        "Male": 69.6,
+        "Female": 1.8,
+        "id": "CG",
+        "Average": 35.7
+      },
+      {
+        "Country": "Croatia",
+        "Year": "2020",
+        "Male": 39.3,
+        "Female": 36.1,
+        "id": "HR",
+        "Average": 37.7
+      },
+      {
+        "Country": "Cuba",
+        "Year": "2020",
+        "Male": 52.6,
+        "Female": 15.1,
+        "id": "CU",
+        "Average": 33.85
+      },
+      {
+        "Country": "Czechia",
+        "Year": "2020",
+        "Male": 36.5,
+        "Female": 28.9,
+        "id": "CZ",
+        "Average": 32.7
+      },
+      {
+        "Country": "Estonia",
+        "Year": "2020",
+        "Male": 37.5,
+        "Female": 24.3,
+        "id": "EE",
+        "Average": 30.9
+      },
+      {
+        "Country": "Georgia",
+        "Year": "2020",
+        "Male": 56,
+        "Female": 5.5,
+        "id": "GE",
+        "Average": 30.75
+      },
+      {
+        "Country": "Greece",
+        "Year": "2020",
+        "Male": 49.7,
+        "Female": 30.2,
+        "id": "GR",
+        "Average": 39.95
+      },
+      {
+        "Country": "Indonesia",
+        "Year": "2020",
+        "Male": 82.7,
+        "Female": 3,
+        "id": "ID",
+        "Average": 42.85
+      },
+      {
+        "Country": "Jordan",
+        "Year": "2020",
+        "Male": 80.4,
+        "Female": 12.1,
+        "id": "JO",
+        "Average": 46.25
+      },
+      {
+        "Country": "Kiribati",
+        "Year": "2020",
+        "Male": 59.1,
+        "Female": 38.8,
+        "id": "KI",
+        "Average": 48.95
+      },
+      {
+        "Country": "Latvia",
+        "Year": "2020",
+        "Male": 46.5,
+        "Female": 24.2,
+        "id": "LV",
+        "Average": 35.35
+      },
+      {
+        "Country": "Lebanon",
+        "Year": "2020",
+        "Male": 50.2,
+        "Female": 34.1,
+        "id": "LB",
+        "Average": 42.15
+      },
+      {
+        "Country": "Lesotho",
+        "Year": "2020",
+        "Male": 64.3,
+        "Female": 0.4,
+        "id": "LS",
+        "Average": 32.35
+      },
+      {
+        "Country": "Nauru",
+        "Year": "2020",
+        "Male": 39.5,
+        "Female": 49.2,
+        "id": "NR",
+        "Average": 44.35
+      },
+      {
+        "Country": "Russian Federation",
+        "Year": "2020",
+        "Male": 56.8,
+        "Female": 23.4,
+        "id": "RU",
+        "Average": 40.1
+      },
+      {
+        "Country": "Serbia",
+        "Year": "2020",
+        "Male": 40.6,
+        "Female": 39.3,
+        "id": "RS",
+        "Average": 39.95
+      },
+      {
+        "Country": "Sierra Leone",
+        "Year": "2020",
+        "Male": 68.6,
+        "Female": 10.2,
+        "id": "SL",
+        "Average": 39.4
+      }
+    ]
+  },
+  {
+    "name": "15 - 30",
+    "limit": 15,
+    "data": [
+      {
+        "Country": "Albania",
+        "Year": "2020",
+        "Male": 49.5,
+        "Female": 6.6,
+        "id": "AL",
+        "Average": 28.05
+      },
+      {
+        "Country": "Argentina",
+        "Year": "2020",
+        "Male": 26,
+        "Female": 15,
+        "id": "AR",
+        "Average": 20.5
+      },
+      {
+        "Country": "Armenia",
+        "Year": "2020",
+        "Male": 48.4,
+        "Female": 1.3,
+        "id": "AM",
+        "Average": 24.85
+      },
+      {
+        "Country": "Azerbaijan",
+        "Year": "2020",
+        "Male": 43.3,
+        "Female": 0.4,
+        "id": "AZ",
+        "Average": 21.85
+      },
+      {
+        "Country": "Bangladesh",
+        "Year": "2020",
+        "Male": 34.3,
+        "Female": 0.3,
+        "id": "BD",
+        "Average": 17.3
+      },
+      {
+        "Country": "Belarus",
+        "Year": "2020",
+        "Male": 41.7,
+        "Female": 9.8,
+        "id": "BY",
+        "Average": 25.75
+      },
+      {
+        "Country": "Belgium",
+        "Year": "2020",
+        "Male": 24.2,
+        "Female": 18.9,
+        "id": "BE",
+        "Average": 21.55
+      },
+      {
+        "Country": "Bolivia (Plurinational State of)",
+        "Year": "2020",
+        "Male": 26,
+        "Female": 15,
+        "id": "BO",
+        "Average": 20.5
+      },
+      {
+        "Country": "Brunei Darussalam",
+        "Year": "2020",
+        "Male": 29.8,
+        "Female": 2.7,
+        "id": "BN",
+        "Average": 16.25
+      },
+      {
+        "Country": "Burkina Faso",
+        "Year": "2020",
+        "Male": 41.8,
+        "Female": 3.6,
+        "id": "BF",
+        "Average": 22.7
+      },
+      {
+        "Country": "Cambodia",
+        "Year": "2020",
+        "Male": 42.5,
+        "Female": 2,
+        "id": "KH",
+        "Average": 22.25
+      },
+      {
+        "Country": "China",
+        "Year": "2020",
+        "Male": 45.7,
+        "Female": 1.4,
+        "id": "CN",
+        "Average": 23.55
+      },
+      {
+        "Country": "Egypt",
+        "Year": "2020",
+        "Male": 56.3,
+        "Female": 0.2,
+        "id": "EG",
+        "Average": 28.25
+      },
+      {
+        "Country": "Fiji",
+        "Year": "2020",
+        "Male": 35.8,
+        "Female": 11.9,
+        "id": "FJ",
+        "Average": 23.85
+      },
+      {
+        "Country": "Finland",
+        "Year": "2020",
+        "Male": 20.6,
+        "Female": 16.7,
+        "id": "FI",
+        "Average": 18.65
+      },
+      {
+        "Country": "France",
+        "Year": "2020",
+        "Male": 27.7,
+        "Female": 24.9,
+        "id": "FR",
+        "Average": 26.3
+      },
+      {
+        "Country": "Germany",
+        "Year": "2020",
+        "Male": 30.7,
+        "Female": 27.7,
+        "id": "DE",
+        "Average": 29.2
+      },
+      {
+        "Country": "Hungary",
+        "Year": "2020",
+        "Male": 28.3,
+        "Female": 22.4,
+        "id": "HU",
+        "Average": 25.35
+      },
+      {
+        "Country": "Ireland",
+        "Year": "2020",
+        "Male": 20,
+        "Female": 19.8,
+        "id": "IE",
+        "Average": 19.9
+      },
+      {
+        "Country": "Israel",
+        "Year": "2020",
+        "Male": 41,
+        "Female": 18.7,
+        "id": "IL",
+        "Average": 29.85
+      },
+      {
+        "Country": "Italy",
+        "Year": "2020",
+        "Male": 26.9,
+        "Female": 19.6,
+        "id": "IT",
+        "Average": 23.25
+      },
+      {
+        "Country": "Jamaica",
+        "Year": "2020",
+        "Male": 30.7,
+        "Female": 5.2,
+        "id": "JM",
+        "Average": 17.95
+      },
+      {
+        "Country": "Japan",
+        "Year": "2020",
+        "Male": 29.2,
+        "Female": 9.6,
+        "id": "JP",
+        "Average": 19.4
+      },
+      {
+        "Country": "Kazakhstan",
+        "Year": "2020",
+        "Male": 40.3,
+        "Female": 8.7,
+        "id": "KZ",
+        "Average": 24.5
+      },
+      {
+        "Country": "Kyrgyzstan",
+        "Year": "2020",
+        "Male": 50.3,
+        "Female": 3.3,
+        "id": "KG",
+        "Average": 26.8
+      },
+      {
+        "Country": "Lao People's Democratic Republic",
+        "Year": "2020",
+        "Male": 51.9,
+        "Female": 7,
+        "id": "LA",
+        "Average": 29.45
+      },
+      {
+        "Country": "Liberia",
+        "Year": "2020",
+        "Male": 32,
+        "Female": 2,
+        "id": "LR",
+        "Average": 17
+      },
+      {
+        "Country": "Lithuania",
+        "Year": "2020",
+        "Male": 34.2,
+        "Female": 22.9,
+        "id": "LT",
+        "Average": 28.55
+      },
+      {
+        "Country": "Luxembourg",
+        "Year": "2020",
+        "Male": 23.8,
+        "Female": 20.4,
+        "id": "LU",
+        "Average": 22.1
+      },
+      {
+        "Country": "Malaysia",
+        "Year": "2020",
+        "Male": 40.2,
+        "Female": 1.1,
+        "id": "MY",
+        "Average": 20.65
+      },
+      {
+        "Country": "Mali",
+        "Year": "2020",
+        "Male": 45.1,
+        "Female": 3,
+        "id": "ML",
+        "Average": 24.05
+      },
+      {
+        "Country": "Malta",
+        "Year": "2020",
+        "Male": 27.7,
+        "Female": 18.6,
+        "id": "MT",
+        "Average": 23.15
+      },
+      {
+        "Country": "Mauritania",
+        "Year": "2020",
+        "Male": 54.3,
+        "Female": 3.2,
+        "id": "MR",
+        "Average": 28.75
+      },
+      {
+        "Country": "Mauritius",
+        "Year": "2020",
+        "Male": 38.6,
+        "Female": 2.9,
+        "id": "MU",
+        "Average": 20.75
+      },
+      {
+        "Country": "Mongolia",
+        "Year": "2020",
+        "Male": 45.4,
+        "Female": 4.5,
+        "id": "MN",
+        "Average": 24.95
+      },
+      {
+        "Country": "Morocco",
+        "Year": "2020",
+        "Male": 51.3,
+        "Female": 1,
+        "id": "MA",
+        "Average": 26.15
+      },
+      {
+        "Country": "Mozambique",
+        "Year": "2020",
+        "Male": 28.8,
+        "Female": 5.5,
+        "id": "MZ",
+        "Average": 17.15
+      },
+      {
+        "Country": "Myanmar",
+        "Year": "2020",
+        "Male": 26.2,
+        "Female": 4.9,
+        "id": "MM",
+        "Average": 15.55
+      },
+      {
+        "Country": "Namibia",
+        "Year": "2020",
+        "Male": 42.9,
+        "Female": 10.5,
+        "id": "NA",
+        "Average": 26.7
+      },
+      {
+        "Country": "Nepal",
+        "Year": "2020",
+        "Male": 34.7,
+        "Female": 7.7,
+        "id": "NP",
+        "Average": 21.2
+      },
+      {
+        "Country": "Netherlands",
+        "Year": "2020",
+        "Male": 22.9,
+        "Female": 22.1,
+        "id": "NL",
+        "Average": 22.5
+      },
+      {
+        "Country": "Norway",
+        "Year": "2020",
+        "Male": 17.9,
+        "Female": 18.1,
+        "id": "NO",
+        "Average": 18
+      },
+      {
+        "Country": "Pakistan",
+        "Year": "2020",
+        "Male": 43.9,
+        "Female": 2.1,
+        "id": "PK",
+        "Average": 23
+      },
+      {
+        "Country": "Paraguay",
+        "Year": "2020",
+        "Male": 24.4,
+        "Female": 6.5,
+        "id": "PY",
+        "Average": 15.45
+      },
+      {
+        "Country": "Philippines",
+        "Year": "2020",
+        "Male": 39,
+        "Female": 7.4,
+        "id": "PH",
+        "Average": 23.2
+      },
+      {
+        "Country": "Poland",
+        "Year": "2020",
+        "Male": 28.9,
+        "Female": 20.6,
+        "id": "PL",
+        "Average": 24.75
+      },
+      {
+        "Country": "Portugal",
+        "Year": "2020",
+        "Male": 30.3,
+        "Female": 13.2,
+        "id": "PT",
+        "Average": 21.75
+      },
+      {
+        "Country": "Republic of Korea",
+        "Year": "2020",
+        "Male": 46.9,
+        "Female": 3.8,
+        "id": "QA",
+        "Average": 25.35
+      },
+      {
+        "Country": "Republic of Moldova",
+        "Year": "2020",
+        "Male": 47.8,
+        "Female": 5.4,
+        "id": "QA",
+        "Average": 26.6
+      },
+      {
+        "Country": "Romania",
+        "Year": "2020",
+        "Male": 33.1,
+        "Female": 21.3,
+        "id": "RO",
+        "Average": 27.2
+      },
+      {
+        "Country": "Samoa",
+        "Year": "2020",
+        "Male": 35.9,
+        "Female": 17.3,
+        "id": "WS",
+        "Average": 26.6
+      },
+      {
+        "Country": "Saudi Arabia",
+        "Year": "2020",
+        "Male": 31.4,
+        "Female": 2.7,
+        "id": "SA",
+        "Average": 17.05
+      },
+      {
+        "Country": "Seychelles",
+        "Year": "2020",
+        "Male": 42.1,
+        "Female": 8.2,
+        "id": "SC",
+        "Average": 25.15
+      },
+      {
+        "Country": "Singapore",
+        "Year": "2020",
+        "Male": 28.3,
+        "Female": 4.9,
+        "id": "SG",
+        "Average": 16.6
+      },
+      {
+        "Country": "Slovakia",
+        "Year": "2020",
+        "Male": 38.1,
+        "Female": 16.8,
+        "id": "SK",
+        "Average": 27.45
+      },
+      {
+        "Country": "Slovenia",
+        "Year": "2020",
+        "Male": 20.4,
+        "Female": 17,
+        "id": "SI",
+        "Average": 18.7
+      },
+      {
+        "Country": "South Africa",
+        "Year": "2020",
+        "Male": 30.4,
+        "Female": 5.2,
+        "id": "ZA",
+        "Average": 17.8
+      },
+      {
+        "Country": "Spain",
+        "Year": "2020",
+        "Male": 28,
+        "Female": 25.7,
+        "id": "ES",
+        "Average": 26.85
+      },
+      {
+        "Country": "Sweden",
+        "Year": "2020",
+        "Male": 17.5,
+        "Female": 17.6,
+        "id": "SE",
+        "Average": 17.55
+      },
+      {
+        "Country": "Switzerland",
+        "Year": "2020",
+        "Male": 24.7,
+        "Female": 18.1,
+        "id": "CH",
+        "Average": 21.4
+      },
+      {
+        "Country": "Thailand",
+        "Year": "2020",
+        "Male": 39.7,
+        "Female": 2.1,
+        "id": "TH",
+        "Average": 20.9
+      },
+      {
+        "Country": "Tonga",
+        "Year": "2020",
+        "Male": 45.6,
+        "Female": 12.4,
+        "id": "TO",
+        "Average": 29
+      },
+      {
+        "Country": "Turkey",
+        "Year": "2020",
+        "Male": 34.7,
+        "Female": 10.6,
+        "id": "TR",
+        "Average": 22.65
+      },
+      {
+        "Country": "Ukraine",
+        "Year": "2020",
+        "Male": 46.3,
+        "Female": 13.5,
+        "id": "UA",
+        "Average": 29.9
+      },
+      {
+        "Country": "United Kingdom of Great Britain and Northern Ireland",
+        "Year": "2020",
+        "Male": 17.3,
+        "Female": 15.9,
+        "id": "GB",
+        "Average": 16.6
+      },
+      {
+        "Country": "United States of America",
+        "Year": "2020",
+        "Male": 17.4,
+        "Female": 13,
+        "id": "US",
+        "Average": 15.2
+      },
+      {
+        "Country": "Uruguay",
+        "Year": "2020",
+        "Male": 22,
+        "Female": 15.7,
+        "id": "UY",
+        "Average": 18.85
+      },
+      {
+        "Country": "Viet Nam",
+        "Year": "2020",
+        "Male": 46.2,
+        "Female": 1.1,
+        "id": "VN",
+        "Average": 23.65
+      },
+      {
+        "Country": "Zimbabwe",
+        "Year": "2020",
+        "Male": 30.6,
+        "Female": 1.9,
+        "id": "ZW",
+        "Average": 16.25
+      }
+    ]
+  },
+  {
+    "name": "5 - 15",
+    "limit": 5,
+    "data": [
+      {
+        "Country": "Australia",
+        "Year": "2020",
+        "Male": 14.3,
+        "Female": 11,
+        "id": "AU",
+        "Average": 12.65
+      },
+      {
+        "Country": "Barbados",
+        "Year": "2020",
+        "Male": 13,
+        "Female": 0.8,
+        "id": "BB",
+        "Average": 6.9
+      },
+      {
+        "Country": "Benin",
+        "Year": "2020",
+        "Male": 20.2,
+        "Female": 0.8,
+        "id": "BJ",
+        "Average": 10.5
+      },
+      {
+        "Country": "Brazil",
+        "Year": "2020",
+        "Male": 16.9,
+        "Female": 9.7,
+        "id": "BR",
+        "Average": 13.3
+      },
+      {
+        "Country": "Cabo Verde",
+        "Year": "2020",
+        "Male": 26,
+        "Female": 3,
+        "id": "CV",
+        "Average": 14.5
+      },
+      {
+        "Country": "Canada",
+        "Year": "2020",
+        "Male": 14.8,
+        "Female": 9.4,
+        "id": "CA",
+        "Average": 12.1
+      },
+      {
+        "Country": "Colombia",
+        "Year": "2020",
+        "Male": 14,
+        "Female": 5.2,
+        "id": "CO",
+        "Average": 9.6
+      },
+      {
+        "Country": "Comoros",
+        "Year": "2020",
+        "Male": 21.2,
+        "Female": 4.6,
+        "id": "KM",
+        "Average": 12.9
+      },
+      {
+        "Country": "Costa Rica",
+        "Year": "2020",
+        "Male": 16.5,
+        "Female": 7.2,
+        "id": "CR",
+        "Average": 11.85
+      },
+      {
+        "Country": "Denmark",
+        "Year": "2020",
+        "Male": 13.4,
+        "Female": 12.9,
+        "id": "DK",
+        "Average": 13.15
+      },
+      {
+        "Country": "Dominican Republic",
+        "Year": "2020",
+        "Male": 18.1,
+        "Female": 8.2,
+        "id": "DO",
+        "Average": 13.15
+      },
+      {
+        "Country": "Ecuador",
+        "Year": "2020",
+        "Male": 12.3,
+        "Female": 2.8,
+        "id": "EC",
+        "Average": 7.55
+      },
+      {
+        "Country": "Eswatini",
+        "Year": "2020",
+        "Male": 20.3,
+        "Female": 2,
+        "id": "SZ",
+        "Average": 11.15
+      },
+      {
+        "Country": "Ghana",
+        "Year": "2020",
+        "Male": 14.9,
+        "Female": 0.4,
+        "id": "GH",
+        "Average": 7.65
+      },
+      {
+        "Country": "Haiti",
+        "Year": "2020",
+        "Male": 23.7,
+        "Female": 2.2,
+        "id": "HT",
+        "Average": 12.95
+      },
+      {
+        "Country": "Honduras",
+        "Year": "2020",
+        "Male": 27.8,
+        "Female": 1.7,
+        "id": "HN",
+        "Average": 14.75
+      },
+      {
+        "Country": "Iceland",
+        "Year": "2020",
+        "Male": 13.7,
+        "Female": 12.6,
+        "id": "IS",
+        "Average": 13.15
+      },
+      {
+        "Country": "India",
+        "Year": "2020",
+        "Male": 17.2,
+        "Female": 1.2,
+        "id": "IN",
+        "Average": 9.2
+      },
+      {
+        "Country": "Iran (Islamic Republic of)",
+        "Year": "2020",
+        "Male": 19.4,
+        "Female": 0.4,
+        "id": "IR",
+        "Average": 9.9
+      },
+      {
+        "Country": "Kenya",
+        "Year": "2020",
+        "Male": 22.9,
+        "Female": 1.9,
+        "id": "KE",
+        "Average": 12.4
+      },
+      {
+        "Country": "Malawi",
+        "Year": "2020",
+        "Male": 23.5,
+        "Female": 5.2,
+        "id": "MW",
+        "Average": 14.35
+      },
+      {
+        "Country": "Mexico",
+        "Year": "2020",
+        "Male": 17.3,
+        "Female": 5.3,
+        "id": "MX",
+        "Average": 11.3
+      },
+      {
+        "Country": "Niger",
+        "Year": "2020",
+        "Male": 24,
+        "Female": 0.2,
+        "id": "NE",
+        "Average": 12.1
+      },
+      {
+        "Country": "Nigeria",
+        "Year": "2020",
+        "Male": 20.2,
+        "Female": 0.9,
+        "id": "NG",
+        "Average": 10.55
+      },
+      {
+        "Country": "Niue",
+        "Year": "2020",
+        "Male": 18.2,
+        "Female": 10.3,
+        "id": "NU",
+        "Average": 14.25
+      },
+      {
+        "Country": "Oman",
+        "Year": "2020",
+        "Male": 25.4,
+        "Female": 1.1,
+        "id": "OM",
+        "Average": 13.25
+      },
+      {
+        "Country": "Panama",
+        "Year": "2020",
+        "Male": 8,
+        "Female": 2.1,
+        "id": "PA",
+        "Average": 5.05
+      },
+      {
+        "Country": "Senegal",
+        "Year": "2020",
+        "Male": 25.8,
+        "Female": 0.6,
+        "id": "SN",
+        "Average": 13.2
+      },
+      {
+        "Country": "Sri Lanka",
+        "Year": "2020",
+        "Male": 28.1,
+        "Female": 0.2,
+        "id": "LK",
+        "Average": 14.15
+      },
+      {
+        "Country": "Uganda",
+        "Year": "2020",
+        "Male": 13.8,
+        "Female": 2.4,
+        "id": "UG",
+        "Average": 8.1
+      },
+      {
+        "Country": "Uzbekistan",
+        "Year": "2020",
+        "Male": 23.8,
+        "Female": 1.2,
+        "id": "UZ",
+        "Average": 12.5
+      },
+      {
+        "Country": "Zambia",
+        "Year": "2020",
+        "Male": 25.5,
+        "Female": 4.2,
+        "id": "ZM",
+        "Average": 14.85
+      }
+    ]
+  },
+  {
+    "name": "1 - 5",
+    "limit": 1,
+    "data": [
+      {
+        "Country": "Ethiopia",
+        "Year": "2020",
+        "Male": 9,
+        "Female": 0.5,
+        "id": "ET",
+        "Average": 4.75
+      }
+    ]
+  },
+  { "name": "< 1", "limit": 0, "data": [] }
+]

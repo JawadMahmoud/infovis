@@ -1,0 +1,1578 @@
+[
+  {
+    "Country": "Afghanistan",
+    "id": "AF",
+    "Male Percent": "10",
+    "Male Num": "16109",
+    "Female Percent": "7.7",
+    "Female Num": "10888"
+  },
+  {
+    "Country": "Angola",
+    "id": "AO",
+    "Male Percent": "5.0999999999999996",
+    "Male Num": "4384",
+    "Female Percent": "2.6",
+    "Female Num": "2125"
+  },
+  {
+    "Country": "Albania",
+    "id": "AL",
+    "Male Percent": "25.2",
+    "Male Num": "3234",
+    "Female Percent": "9.1",
+    "Female Num": "876"
+  },
+  {
+    "Country": "Andorra",
+    "id": "AD",
+    "Male Percent": "19.600000000000001",
+    "Male Num": "75",
+    "Female Percent": "7.1",
+    "Female Num": "25"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "id": "AE",
+    "Male Percent": "12.8",
+    "Male Num": "2718",
+    "Female Percent": "6",
+    "Female Num": "265"
+  },
+  {
+    "Country": "Argentina",
+    "id": "AR",
+    "Male Percent": "17.899999999999999",
+    "Male Num": "30704",
+    "Female Percent": "10.4",
+    "Female Num": "17064"
+  },
+  {
+    "Country": "Armenia",
+    "id": "AM",
+    "Male Percent": "29.2",
+    "Male Num": "4064",
+    "Female Percent": "8.1",
+    "Female Num": "1082"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "id": "AG",
+    "Male Percent": "4.7",
+    "Male Num": "12",
+    "Female Percent": "2.5",
+    "Female Num": "6"
+  },
+  {
+    "Country": "Australia",
+    "id": "AU",
+    "Male Percent": "15.7",
+    "Male Num": "13374",
+    "Female Percent": "11",
+    "Female Num": "8849"
+  },
+  {
+    "Country": "Austria",
+    "id": "AT",
+    "Male Percent": "16.7",
+    "Male Num": "6576",
+    "Female Percent": "8.3000000000000007",
+    "Female Num": "3590"
+  },
+  {
+    "Country": "Azerbaijan",
+    "id": "AZ",
+    "Male Percent": "23.5",
+    "Male Num": "9550",
+    "Female Percent": "8.5",
+    "Female Num": "2515"
+  },
+  {
+    "Country": "Burundi",
+    "id": "BI",
+    "Male Percent": "3.8",
+    "Male Num": "2029",
+    "Female Percent": "1.4",
+    "Female Num": "666"
+  },
+  {
+    "Country": "Belgium",
+    "id": "BE",
+    "Male Percent": "23.7",
+    "Male Num": "13229",
+    "Female Percent": "9.6",
+    "Female Num": "5507"
+  },
+  {
+    "Country": "Benin",
+    "id": "BJ",
+    "Male Percent": "5",
+    "Male Num": "2177",
+    "Female Percent": "1.9",
+    "Female Num": "726"
+  },
+  {
+    "Country": "Burkina Faso",
+    "id": "BF",
+    "Male Percent": "4.2",
+    "Male Num": "3465",
+    "Female Percent": "1.8",
+    "Female Num": "1430"
+  },
+  {
+    "Country": "Bangladesh",
+    "id": "BD",
+    "Male Percent": "25.5",
+    "Male Num": "127350",
+    "Female Percent": "9.6999999999999993",
+    "Female Num": "33903"
+  },
+  {
+    "Country": "Bulgaria",
+    "id": "BG",
+    "Male Percent": "22.3",
+    "Male Num": "12573",
+    "Female Percent": "8.4",
+    "Female Num": "4481"
+  },
+  {
+    "Country": "Bahrain",
+    "id": "BH",
+    "Male Percent": "11.7",
+    "Male Num": "255",
+    "Female Percent": "7.5",
+    "Female Num": "105"
+  },
+  {
+    "Country": "Bahamas",
+    "id": "BS",
+    "Male Percent": "9.1",
+    "Male Num": "136",
+    "Female Percent": "3.4",
+    "Female Num": "49"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "id": "BA",
+    "Male Percent": "29.8",
+    "Male Num": "6060",
+    "Female Percent": "13.7",
+    "Female Num": "2535"
+  },
+  {
+    "Country": "Belarus",
+    "id": "BY",
+    "Male Percent": "25.1",
+    "Male Num": "15190",
+    "Female Percent": "4.3",
+    "Female Num": "2629"
+  },
+  {
+    "Country": "Belize",
+    "id": "BZ",
+    "Male Percent": "9.6",
+    "Male Num": "106",
+    "Female Percent": "4.3",
+    "Female Num": "32"
+  },
+  {
+    "Country": "Bolivia",
+    "id": "BT",
+    "Male Percent": "7.5",
+    "Male Num": "2574",
+    "Female Percent": "6",
+    "Female Num": "2071"
+  },
+  {
+    "Country": "Brazil",
+    "id": "BR",
+    "Male Percent": "12.4",
+    "Male Num": "91278",
+    "Female Percent": "10.5",
+    "Female Num": "58899"
+  },
+  {
+    "Country": "Barbados",
+    "id": "BB",
+    "Male Percent": "5.2",
+    "Male Num": "70",
+    "Female Percent": "1.8",
+    "Female Num": "24"
+  },
+  {
+    "Country": "Brunei",
+    "id": "IO",
+    "Male Percent": "16.100000000000001",
+    "Male Num": "161",
+    "Female Percent": "10.6",
+    "Female Num": "72"
+  },
+  {
+    "Country": "Bhutan",
+    "id": "BT",
+    "Male Percent": "6.5",
+    "Male Num": "155",
+    "Female Percent": "4.4000000000000004",
+    "Female Num": "66"
+  },
+  {
+    "Country": "Botswana",
+    "id": "BW",
+    "Male Percent": "11.1",
+    "Male Num": "1132",
+    "Female Percent": "5.7",
+    "Female Num": "419"
+  },
+  {
+    "Country": "Central African Rep.",
+    "id": "KY",
+    "Male Percent": "5.9",
+    "Male Num": "2485",
+    "Female Percent": "1.6",
+    "Female Num": "608"
+  },
+  {
+    "Country": "Canada",
+    "id": "CA",
+    "Male Percent": "19.399999999999999",
+    "Male Num": "26610",
+    "Female Percent": "15.6",
+    "Female Num": "21127"
+  },
+  {
+    "Country": "Switzerland",
+    "id": "CH",
+    "Male Percent": "16.7",
+    "Male Num": "5509",
+    "Female Percent": "8.8000000000000007",
+    "Female Num": "3050"
+  },
+  {
+    "Country": "Chile",
+    "id": "CL",
+    "Male Percent": "12.3",
+    "Male Num": "7089",
+    "Female Percent": "9.6999999999999993",
+    "Female Num": "4990"
+  },
+  {
+    "Country": "China",
+    "id": "CN",
+    "Male Percent": "24.9",
+    "Male Num": "1475124",
+    "Female Percent": "12.8",
+    "Female Num": "477163"
+  },
+  {
+    "Country": "CÃ´te d'Ivoire",
+    "id": "BI",
+    "Male Percent": "5.6",
+    "Male Num": "6791",
+    "Female Percent": "2.6",
+    "Female Num": "2320"
+  },
+  {
+    "Country": "Cameroon",
+    "id": "CM",
+    "Male Percent": "5.2",
+    "Male Num": "6023",
+    "Female Percent": "2",
+    "Female Num": "2013"
+  },
+  {
+    "Country": "Dem. Rep. of Congo",
+    "id": "CZ",
+    "Male Percent": "5",
+    "Male Num": "17215",
+    "Female Percent": "1.6",
+    "Female Num": "5369"
+  },
+  {
+    "Country": "Congo",
+    "id": "CG",
+    "Male Percent": "4.7",
+    "Male Num": "844",
+    "Female Percent": "3.2",
+    "Female Num": "654"
+  },
+  {
+    "Country": "Cook Islands",
+    "id": "CK",
+    "Male Percent": "",
+    "Male Num": "",
+    "Female Percent": "",
+    "Female Num": ""
+  },
+  {
+    "Country": "Colombia",
+    "id": "CO",
+    "Male Percent": "10",
+    "Male Num": "12249",
+    "Female Percent": "8.8000000000000007",
+    "Female Num": "8646"
+  },
+  {
+    "Country": "Comoros",
+    "id": "KM",
+    "Male Percent": "7.1",
+    "Male Num": "156",
+    "Female Percent": "2.2000000000000002",
+    "Female Num": "45"
+  },
+  {
+    "Country": "Cape Verde",
+    "id": "CA",
+    "Male Percent": "9.6999999999999993",
+    "Male Num": "167",
+    "Female Percent": "5.2",
+    "Female Num": "59"
+  },
+  {
+    "Country": "Costa Rica",
+    "id": "CR",
+    "Male Percent": "7",
+    "Male Num": "848",
+    "Female Percent": "3.7",
+    "Female Num": "339"
+  },
+  {
+    "Country": "Cuba",
+    "id": "CU",
+    "Male Percent": "23.5",
+    "Male Num": "12418",
+    "Female Percent": "16.100000000000001",
+    "Female Num": "7031"
+  },
+  {
+    "Country": "Cyprus",
+    "id": "CY",
+    "Male Percent": "19.600000000000001",
+    "Male Num": "726",
+    "Female Percent": "5.8",
+    "Female Num": "205"
+  },
+  {
+    "Country": "Czech Rep.",
+    "id": "CY",
+    "Male Percent": "21.3",
+    "Male Num": "11550",
+    "Female Percent": "11.3",
+    "Female Num": "6114"
+  },
+  {
+    "Country": "Germany",
+    "id": "DE",
+    "Male Percent": "18.399999999999999",
+    "Male Num": "82833",
+    "Female Percent": "8.9",
+    "Female Num": "41956"
+  },
+  {
+    "Country": "Djibouti",
+    "id": "DJ",
+    "Male Percent": "10.5",
+    "Male Num": "394",
+    "Female Percent": "3.9",
+    "Female Num": "122"
+  },
+  {
+    "Country": "Dominica",
+    "id": "DM",
+    "Male Percent": "8.5",
+    "Male Num": "29",
+    "Female Percent": "3.6",
+    "Female Num": "10"
+  },
+  {
+    "Country": "Denmark",
+    "id": "DK",
+    "Male Percent": "22.2",
+    "Male Num": "5942",
+    "Female Percent": "20.8",
+    "Female Num": "5433"
+  },
+  {
+    "Country": "Dominican Rep.",
+    "id": "DM",
+    "Male Percent": "9.1999999999999993",
+    "Male Num": "3010",
+    "Female Percent": "8.6",
+    "Female Num": "2097"
+  },
+  {
+    "Country": "Algeria",
+    "id": "DZ",
+    "Male Percent": "11.5",
+    "Male Num": "10717",
+    "Female Percent": "5",
+    "Female Num": "4240"
+  },
+  {
+    "Country": "Ecuador",
+    "id": "EC",
+    "Male Percent": "5.7",
+    "Male Num": "2395",
+    "Female Percent": "3.5",
+    "Female Num": "1164"
+  },
+  {
+    "Country": "Egypt",
+    "id": "EG",
+    "Male Percent": "17.100000000000001",
+    "Male Num": "49925",
+    "Female Percent": "5",
+    "Female Num": "11370"
+  },
+  {
+    "Country": "Eritrea",
+    "id": "ER",
+    "Male Percent": "4.0999999999999996",
+    "Male Num": "711",
+    "Female Percent": "1.4",
+    "Female Num": "251"
+  },
+  {
+    "Country": "Spain",
+    "id": "ES",
+    "Male Percent": "22.3",
+    "Male Num": "46557",
+    "Female Percent": "5.0999999999999996",
+    "Female Num": "10659"
+  },
+  {
+    "Country": "Estonia",
+    "id": "EE",
+    "Male Percent": "20.5",
+    "Male Num": "1518",
+    "Female Percent": "6.3",
+    "Female Num": "538"
+  },
+  {
+    "Country": "Ethiopia",
+    "id": "ET",
+    "Male Percent": "3.9",
+    "Male Num": "13469",
+    "Female Percent": "1",
+    "Female Num": "3405"
+  },
+  {
+    "Country": "Finland",
+    "id": "FI",
+    "Male Percent": "13.9",
+    "Male Num": "3617",
+    "Female Percent": "5.8",
+    "Female Num": "1512"
+  },
+  {
+    "Country": "Fiji",
+    "id": "FJ",
+    "Male Percent": "14.9",
+    "Male Num": "681",
+    "Female Percent": "7.1",
+    "Female Num": "268"
+  },
+  {
+    "Country": "France",
+    "id": "FR",
+    "Male Percent": "18.5",
+    "Male Num": "54704",
+    "Female Percent": "6.4",
+    "Female Num": "18841"
+  },
+  {
+    "Country": "Fed. States of Micronesia",
+    "id": "FO",
+    "Male Percent": "20.5",
+    "Male Num": "91",
+    "Female Percent": "10.5",
+    "Female Num": "41"
+  },
+  {
+    "Country": "Gabon",
+    "id": "GA",
+    "Male Percent": "5.4",
+    "Male Num": "386",
+    "Female Percent": "2.8",
+    "Female Num": "183"
+  },
+  {
+    "Country": "United Kingdom",
+    "id": "GB",
+    "Male Percent": "20.5",
+    "Male Num": "62776",
+    "Female Percent": "16.899999999999999",
+    "Female Num": "51737"
+  },
+  {
+    "Country": "Georgia",
+    "id": "GE",
+    "Male Percent": "23.1",
+    "Male Num": "5967",
+    "Female Percent": "5.7",
+    "Female Num": "1271"
+  },
+  {
+    "Country": "Ghana",
+    "id": "GH",
+    "Male Percent": "3.9",
+    "Male Num": "3896",
+    "Female Percent": "1.2",
+    "Female Num": "1116"
+  },
+  {
+    "Country": "Guinea",
+    "id": "GN",
+    "Male Percent": "6.1",
+    "Male Num": "3622",
+    "Female Percent": "1.5",
+    "Female Num": "831"
+  },
+  {
+    "Country": "Gambia",
+    "id": "GM",
+    "Male Percent": "6.4",
+    "Male Num": "395",
+    "Female Percent": "2.5",
+    "Female Num": "124"
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "id": "GW",
+    "Male Percent": "7.2",
+    "Male Num": "738",
+    "Female Percent": "2.2000000000000002",
+    "Female Num": "187"
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "id": "GQ",
+    "Male Percent": "2.9",
+    "Male Num": "94",
+    "Female Percent": "2.4",
+    "Female Num": "66"
+  },
+  {
+    "Country": "Greece",
+    "id": "GR",
+    "Male Percent": "25.1",
+    "Male Num": "16204",
+    "Female Percent": "10.4",
+    "Female Num": "6555"
+  },
+  {
+    "Country": "Grenada",
+    "id": "GD",
+    "Male Percent": "9.9",
+    "Male Num": "44",
+    "Female Percent": "4.5999999999999996",
+    "Female Num": "20"
+  },
+  {
+    "Country": "Guatemala",
+    "id": "GT",
+    "Male Percent": "3.9",
+    "Male Num": "1906",
+    "Female Percent": "2.5",
+    "Female Num": "911"
+  },
+  {
+    "Country": "Guyana",
+    "id": "GY",
+    "Male Percent": "11.4",
+    "Male Num": "395",
+    "Female Percent": "4.7",
+    "Female Num": "116"
+  },
+  {
+    "Country": "Hong Kong",
+    "id": "HK",
+    "Male Percent": "",
+    "Male Num": "",
+    "Female Percent": "",
+    "Female Num": ""
+  },
+  {
+    "Country": "Honduras",
+    "id": "HN",
+    "Male Percent": "7.7",
+    "Male Num": "1791",
+    "Female Percent": "4.5",
+    "Female Num": "1011"
+  },
+  {
+    "Country": "Croatia",
+    "id": "HR",
+    "Male Percent": "24",
+    "Male Num": "6458",
+    "Female Percent": "10.9",
+    "Female Num": "3154"
+  },
+  {
+    "Country": "Haiti",
+    "id": "HT",
+    "Male Percent": "6.8",
+    "Male Num": "3124",
+    "Female Percent": "4.8",
+    "Female Num": "2400"
+  },
+  {
+    "Country": "Hungary",
+    "id": "HU",
+    "Male Percent": "26.3",
+    "Male Num": "16649",
+    "Female Percent": "14",
+    "Female Num": "9432"
+  },
+  {
+    "Country": "Indonesia",
+    "id": "ID",
+    "Male Percent": "21.4",
+    "Male Num": "175315",
+    "Female Percent": "7",
+    "Female Num": "50405"
+  },
+  {
+    "Country": "India",
+    "id": "IN",
+    "Male Percent": "13",
+    "Male Num": "701444",
+    "Female Percent": "5.3",
+    "Female Num": "231267"
+  },
+  {
+    "Country": "Ireland",
+    "id": "IE",
+    "Male Percent": "19.8",
+    "Male Num": "3215",
+    "Female Percent": "16",
+    "Female Num": "2387"
+  },
+  {
+    "Country": "Iran",
+    "id": "ID",
+    "Male Percent": "14.2",
+    "Male Num": "31078",
+    "Female Percent": "5.8",
+    "Female Num": "8280"
+  },
+  {
+    "Country": "Iraq",
+    "id": "IQ",
+    "Male Percent": "12.3",
+    "Male Num": "15769",
+    "Female Percent": "7.3",
+    "Female Num": "7238"
+  },
+  {
+    "Country": "Iceland",
+    "id": "IS",
+    "Male Percent": "15.2",
+    "Male Num": "175",
+    "Female Percent": "17.399999999999999",
+    "Female Num": "190"
+  },
+  {
+    "Country": "Israel",
+    "id": "IL",
+    "Male Percent": "15.1",
+    "Male Num": "3542",
+    "Female Percent": "8.3000000000000007",
+    "Female Num": "1887"
+  },
+  {
+    "Country": "Italy",
+    "id": "IT",
+    "Male Percent": "20.6",
+    "Male Num": "65794",
+    "Female Percent": "7.9",
+    "Female Num": "27548"
+  },
+  {
+    "Country": "Jamaica",
+    "id": "JM",
+    "Male Percent": "13.1",
+    "Male Num": "1514",
+    "Female Percent": "5.5",
+    "Female Num": "580"
+  },
+  {
+    "Country": "Jordan",
+    "id": "JO",
+    "Male Percent": "16.5",
+    "Male Num": "2405",
+    "Female Percent": "6.7",
+    "Female Num": "769"
+  },
+  {
+    "Country": "Japan",
+    "id": "JP",
+    "Male Percent": "18.3",
+    "Male Num": "125701",
+    "Female Percent": "4.9000000000000004",
+    "Female Num": "32109"
+  },
+  {
+    "Country": "Kazakhstan",
+    "id": "KZ",
+    "Male Percent": "24.2",
+    "Male Num": "17928",
+    "Female Percent": "7.5",
+    "Female Num": "4575"
+  },
+  {
+    "Country": "Kenya",
+    "id": "KE",
+    "Male Percent": "4.2",
+    "Male Num": "6237",
+    "Female Percent": "1.5",
+    "Female Num": "1881"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "id": "KG",
+    "Male Percent": "18.5",
+    "Male Num": "3724",
+    "Female Percent": "5.3",
+    "Female Num": "846"
+  },
+  {
+    "Country": "Cambodia",
+    "id": "KH",
+    "Male Percent": "20.6",
+    "Male Num": "10917",
+    "Female Percent": "9.4",
+    "Female Num": "4252"
+  },
+  {
+    "Country": "Kiribati",
+    "id": "KI",
+    "Male Percent": "22.8",
+    "Male Num": "134",
+    "Female Percent": "14.5",
+    "Female Num": "67"
+  },
+  {
+    "Country": "St. Kitts and Nevis",
+    "id": "LK",
+    "Male Percent": "",
+    "Male Num": "",
+    "Female Percent": "",
+    "Female Num": ""
+  },
+  {
+    "Country": "Rep. Korea",
+    "id": "QA",
+    "Male Percent": "19.3",
+    "Male Num": "35278",
+    "Female Percent": "7.3",
+    "Female Num": "11484"
+  },
+  {
+    "Country": "Kuwait",
+    "id": "KW",
+    "Male Percent": "16.7",
+    "Male Num": "707",
+    "Female Percent": "6.2",
+    "Female Num": "159"
+  },
+  {
+    "Country": "Loa PDR",
+    "id": "LT",
+    "Male Percent": "18.600000000000001",
+    "Male Num": "4886",
+    "Female Percent": "11.2",
+    "Female Num": "2443"
+  },
+  {
+    "Country": "Lebanon",
+    "id": "LB",
+    "Male Percent": "21.1",
+    "Male Num": "2956",
+    "Female Percent": "15.8",
+    "Female Num": "1863"
+  },
+  {
+    "Country": "Liberia",
+    "id": "LR",
+    "Male Percent": "4.7",
+    "Male Num": "764",
+    "Female Percent": "1.6",
+    "Female Num": "250"
+  },
+  {
+    "Country": "Libya",
+    "id": "LY",
+    "Male Percent": "20.3",
+    "Male Num": "3130",
+    "Female Percent": "4.2",
+    "Female Num": "490"
+  },
+  {
+    "Country": "St. Lucia",
+    "id": "LK",
+    "Male Percent": "9.1999999999999993",
+    "Male Num": "61",
+    "Female Percent": "4",
+    "Female Num": "21"
+  },
+  {
+    "Country": "Lichtenstein",
+    "id": "LY",
+    "Male Percent": "",
+    "Male Num": "",
+    "Female Percent": "",
+    "Female Num": ""
+  },
+  {
+    "Country": "Sri Lanka",
+    "id": "LK",
+    "Male Percent": "13.7",
+    "Male Num": "9962",
+    "Female Percent": "4.7",
+    "Female Num": "2389"
+  },
+  {
+    "Country": "Lesotho",
+    "id": "LS",
+    "Male Percent": "11.3",
+    "Male Num": "1980",
+    "Female Percent": "3.7",
+    "Female Num": "560"
+  },
+  {
+    "Country": "Lithuania",
+    "id": "LT",
+    "Male Percent": "21.6",
+    "Male Num": "4260",
+    "Female Percent": "4.4000000000000004",
+    "Female Num": "887"
+  },
+  {
+    "Country": "Luxembourg",
+    "id": "LU",
+    "Male Percent": "20.6",
+    "Male Num": "408",
+    "Female Percent": "10.5",
+    "Female Num": "224"
+  },
+  {
+    "Country": "Latvia",
+    "id": "LV",
+    "Male Percent": "23.1",
+    "Male Num": "3097",
+    "Female Percent": "6.3",
+    "Female Num": "943"
+  },
+  {
+    "Country": "Morocco",
+    "id": "MA",
+    "Male Percent": "15",
+    "Male Num": "14311",
+    "Female Percent": "3.7",
+    "Female Num": "3333"
+  },
+  {
+    "Country": "Monaco",
+    "id": "MC",
+    "Male Percent": "",
+    "Male Num": "",
+    "Female Percent": "",
+    "Female Num": ""
+  },
+  {
+    "Country": "Moldova",
+    "id": "FM",
+    "Male Percent": "20.8",
+    "Male Num": "4703",
+    "Female Percent": "4",
+    "Female Num": "821"
+  },
+  {
+    "Country": "Madagascar",
+    "id": "MG",
+    "Male Percent": "6.7",
+    "Male Num": "6950",
+    "Female Percent": "1.9",
+    "Female Num": "1837"
+  },
+  {
+    "Country": "Maldives",
+    "id": "MV",
+    "Male Percent": "20",
+    "Male Num": "137",
+    "Female Percent": "7.9",
+    "Female Num": "35"
+  },
+  {
+    "Country": "Mexico",
+    "id": "MX",
+    "Male Percent": "9",
+    "Male Num": "32971",
+    "Female Percent": "4.9000000000000004",
+    "Female Num": "14349"
+  },
+  {
+    "Country": "Marshall Islands",
+    "id": "MH",
+    "Male Percent": "15.3",
+    "Male Num": "45",
+    "Female Percent": "8.1",
+    "Female Num": "20"
+  },
+  {
+    "Country": "FYR Macedonia",
+    "id": "TF",
+    "Male Percent": "25.1",
+    "Male Num": "2904",
+    "Female Percent": "11.2",
+    "Female Num": "1147"
+  },
+  {
+    "Country": "Mali",
+    "id": "ML",
+    "Male Percent": "2.2999999999999998",
+    "Male Num": "1858",
+    "Female Percent": "1",
+    "Female Num": "772"
+  },
+  {
+    "Country": "Malta",
+    "id": "MT",
+    "Male Percent": "19",
+    "Male Num": "354",
+    "Female Percent": "5",
+    "Female Num": "80"
+  },
+  {
+    "Country": "Myanmar",
+    "id": "MM",
+    "Male Percent": "22.4",
+    "Male Num": "47163",
+    "Female Percent": "11.3",
+    "Female Num": "18488"
+  },
+  {
+    "Country": "Montenegro",
+    "id": "ME",
+    "Male Percent": "29.1",
+    "Male Num": "919",
+    "Female Percent": "17.3",
+    "Female Num": "485"
+  },
+  {
+    "Country": "Mongolia",
+    "id": "MN",
+    "Male Percent": "23.3",
+    "Male Num": "3061",
+    "Female Percent": "9.3000000000000007",
+    "Female Num": "778"
+  },
+  {
+    "Country": "Mozambique",
+    "id": "MZ",
+    "Male Percent": "5.0999999999999996",
+    "Male Num": "7222",
+    "Female Percent": "2.2999999999999998",
+    "Female Num": "2836"
+  },
+  {
+    "Country": "Mauritania",
+    "id": "MR",
+    "Male Percent": "6.1",
+    "Male Num": "585",
+    "Female Percent": "3.3",
+    "Female Num": "347"
+  },
+  {
+    "Country": "Mauritius",
+    "id": "MU",
+    "Male Percent": "16.600000000000001",
+    "Male Num": "924",
+    "Female Percent": "7",
+    "Female Num": "319"
+  },
+  {
+    "Country": "Malawi",
+    "id": "MW",
+    "Male Percent": "5.2",
+    "Male Num": "4431",
+    "Female Percent": "1.8",
+    "Female Num": "1373"
+  },
+  {
+    "Country": "Malaysia",
+    "id": "MY",
+    "Male Percent": "23.1",
+    "Male Num": "20991",
+    "Female Percent": "10.4",
+    "Female Num": "6208"
+  },
+  {
+    "Country": "Namibia",
+    "id": "NA",
+    "Male Percent": "6.7",
+    "Male Num": "700",
+    "Female Percent": "4.3",
+    "Female Num": "333"
+  },
+  {
+    "Country": "Niger",
+    "id": "NE",
+    "Male Percent": "2.8",
+    "Male Num": "2648",
+    "Female Percent": "0.8",
+    "Female Num": "709"
+  },
+  {
+    "Country": "Nigeria",
+    "id": "NG",
+    "Male Percent": "1.7",
+    "Male Num": "12819",
+    "Female Percent": "0.5",
+    "Female Num": "3318"
+  },
+  {
+    "Country": "Nicaragua",
+    "id": "NI",
+    "Male Percent": "6",
+    "Male Num": "803",
+    "Female Percent": "3.7",
+    "Female Num": "388"
+  },
+  {
+    "Country": "Niue",
+    "id": "NU",
+    "Male Percent": "",
+    "Male Num": "",
+    "Female Percent": "",
+    "Female Num": ""
+  },
+  {
+    "Country": "Netherlands",
+    "id": "NL",
+    "Male Percent": "24.4",
+    "Male Num": "18093",
+    "Female Percent": "16.100000000000001",
+    "Female Num": "11896"
+  },
+  {
+    "Country": "Norway",
+    "id": "NO",
+    "Male Percent": "16.100000000000001",
+    "Male Num": "3316",
+    "Female Percent": "13.6",
+    "Female Num": "2891"
+  },
+  {
+    "Country": "Nepal",
+    "id": "NP",
+    "Male Percent": "15.7",
+    "Male Num": "14475",
+    "Female Percent": "14.1",
+    "Female Num": "12663"
+  },
+  {
+    "Country": "Nauru",
+    "id": "NR",
+    "Male Percent": "",
+    "Male Num": "",
+    "Female Percent": "",
+    "Female Num": ""
+  },
+  {
+    "Country": "New Zealand",
+    "id": "NZ",
+    "Male Percent": "15",
+    "Male Num": "2521",
+    "Female Percent": "13.3",
+    "Female Num": "2106"
+  },
+  {
+    "Country": "Oman",
+    "id": "OM",
+    "Male Percent": "9.5",
+    "Male Num": "840",
+    "Female Percent": "3.4",
+    "Female Num": "127"
+  },
+  {
+    "Country": "Pakistan",
+    "id": "PK",
+    "Male Percent": "17",
+    "Male Num": "120240",
+    "Female Percent": "6.9",
+    "Female Num": "39949"
+  },
+  {
+    "Country": "Panama",
+    "id": "PA",
+    "Male Percent": "5.9",
+    "Male Num": "641",
+    "Female Percent": "3.4",
+    "Female Num": "266"
+  },
+  {
+    "Country": "Peru",
+    "id": "PE",
+    "Male Percent": "6.6",
+    "Male Num": "4563",
+    "Female Percent": "5.0999999999999996",
+    "Female Num": "3104"
+  },
+  {
+    "Country": "Philippines",
+    "id": "PH",
+    "Male Percent": "22.7",
+    "Male Num": "83252",
+    "Female Percent": "13.3",
+    "Female Num": "34497"
+  },
+  {
+    "Country": "Palau",
+    "id": "PW",
+    "Male Percent": "",
+    "Male Num": "",
+    "Female Percent": "",
+    "Female Num": ""
+  },
+  {
+    "Country": "Papua New Guinea",
+    "id": "PG",
+    "Male Percent": "21",
+    "Male Num": "7459",
+    "Female Percent": "16",
+    "Female Num": "5382"
+  },
+  {
+    "Country": "Poland",
+    "id": "PL",
+    "Male Percent": "25.2",
+    "Male Num": "50382",
+    "Female Percent": "11.2",
+    "Female Num": "21323"
+  },
+  {
+    "Country": "DPR Korea",
+    "id": "DO",
+    "Male Percent": "36.700000000000003",
+    "Male Num": "40755",
+    "Female Percent": "25.1",
+    "Female Num": "30616"
+  },
+  {
+    "Country": "Portugal",
+    "id": "PT",
+    "Male Percent": "16.399999999999999",
+    "Male Num": "9263",
+    "Female Percent": "4.7",
+    "Female Num": "2581"
+  },
+  {
+    "Country": "Paraguay",
+    "id": "PY",
+    "Male Percent": "13.7",
+    "Male Num": "2799",
+    "Female Percent": "7.7",
+    "Female Num": "1199"
+  },
+  {
+    "Country": "West Bank/Gaza Strip",
+    "id": "WF",
+    "Male Percent": "18.3",
+    "Male Num": "2085",
+    "Female Percent": "6.5",
+    "Female Num": "610"
+  },
+  {
+    "Country": "Qatar",
+    "id": "QA",
+    "Male Percent": "9.5",
+    "Male Num": "254",
+    "Female Percent": "3.9",
+    "Female Num": "32"
+  },
+  {
+    "Country": "Romania",
+    "id": "RO",
+    "Male Percent": "20.7",
+    "Male Num": "27255",
+    "Female Percent": "7.6",
+    "Female Num": "9360"
+  },
+  {
+    "Country": "Russian Federation",
+    "id": "RU",
+    "Male Percent": "24.6",
+    "Male Num": "246936",
+    "Female Percent": "6.2",
+    "Female Num": "62631"
+  },
+  {
+    "Country": "Rwanda",
+    "id": "RW",
+    "Male Percent": "4.7",
+    "Male Num": "1615",
+    "Female Percent": "1.6",
+    "Female Num": "534"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "id": "SA",
+    "Male Percent": "9.6",
+    "Male Num": "5245",
+    "Female Percent": "4.9000000000000004",
+    "Female Num": "1770"
+  },
+  {
+    "Country": "Sudan",
+    "id": "SD",
+    "Male Percent": "8",
+    "Male Num": "9443",
+    "Female Percent": "3.7",
+    "Female Num": "3618"
+  },
+  {
+    "Country": "Senegal",
+    "id": "SN",
+    "Male Percent": "6.1",
+    "Male Num": "2973",
+    "Female Percent": "2.5",
+    "Female Num": "1163"
+  },
+  {
+    "Country": "Singapore",
+    "id": "SG",
+    "Male Percent": "16.8",
+    "Male Num": "1735",
+    "Female Percent": "5.9",
+    "Female Num": "543"
+  },
+  {
+    "Country": "Solomon Islands",
+    "id": "SB",
+    "Male Percent": "20.7",
+    "Male Num": "518",
+    "Female Percent": "12.8",
+    "Female Num": "280"
+  },
+  {
+    "Country": "Sierra Leone",
+    "id": "SL",
+    "Male Percent": "7",
+    "Male Num": "2231",
+    "Female Percent": "3.1",
+    "Female Num": "926"
+  },
+  {
+    "Country": "El Salvador",
+    "id": "SV",
+    "Male Percent": "4.9000000000000004",
+    "Male Num": "1018",
+    "Female Percent": "3.9",
+    "Female Num": "671"
+  },
+  {
+    "Country": "San Marino",
+    "id": "SM",
+    "Male Percent": "",
+    "Male Num": "",
+    "Female Percent": "",
+    "Female Num": ""
+  },
+  {
+    "Country": "Somalia",
+    "id": "SO",
+    "Male Percent": "5.5",
+    "Male Num": "2736",
+    "Female Percent": "2.2000000000000002",
+    "Female Num": "1132"
+  },
+  {
+    "Country": "Serbia",
+    "id": "RS",
+    "Male Percent": "23.9",
+    "Male Num": "13059",
+    "Female Percent": "12",
+    "Female Num": "6236"
+  },
+  {
+    "Country": "South Sudan",
+    "id": "SS",
+    "Male Percent": "3.4",
+    "Male Num": "2449",
+    "Female Percent": "1.2",
+    "Female Num": "827"
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "id": "ST",
+    "Male Percent": "8.1",
+    "Male Num": "42",
+    "Female Percent": "3.4",
+    "Female Num": "16"
+  },
+  {
+    "Country": "Suriname",
+    "id": "SR",
+    "Male Percent": "13.2",
+    "Male Num": "287",
+    "Female Percent": "7.5",
+    "Female Num": "136"
+  },
+  {
+    "Country": "Slovakia",
+    "id": "SK",
+    "Male Percent": "22.1",
+    "Male Num": "6074",
+    "Female Percent": "7.6",
+    "Female Num": "2025"
+  },
+  {
+    "Country": "Slovenia",
+    "id": "SI",
+    "Male Percent": "18.399999999999999",
+    "Male Num": "1859",
+    "Female Percent": "7.3",
+    "Female Num": "774"
+  },
+  {
+    "Country": "Sweden",
+    "id": "SE",
+    "Male Percent": "11.2",
+    "Male Num": "5228",
+    "Female Percent": "11.1",
+    "Female Num": "5286"
+  },
+  {
+    "Country": "Swaziland",
+    "id": "SJ",
+    "Male Percent": "7.1",
+    "Male Num": "565",
+    "Female Percent": "2.9",
+    "Female Num": "172"
+  },
+  {
+    "Country": "Seychelles",
+    "id": "SC",
+    "Male Percent": "16.899999999999999",
+    "Male Num": "68",
+    "Female Percent": "5.4",
+    "Female Num": "18"
+  },
+  {
+    "Country": "Syria",
+    "id": "CH",
+    "Male Percent": "9.6999999999999993",
+    "Male Num": "7029",
+    "Female Percent": "5.8",
+    "Female Num": "2418"
+  },
+  {
+    "Country": "Chad",
+    "id": "TD",
+    "Male Percent": "3.7",
+    "Male Num": "2664",
+    "Female Percent": "1.3",
+    "Female Num": "859"
+  },
+  {
+    "Country": "Togo",
+    "id": "TG",
+    "Male Percent": "6",
+    "Male Num": "1808",
+    "Female Percent": "2.2000000000000002",
+    "Female Num": "556"
+  },
+  {
+    "Country": "Thailand",
+    "id": "TH",
+    "Male Percent": "22.9",
+    "Male Num": "58620",
+    "Female Percent": "11.6",
+    "Female Num": "22901"
+  },
+  {
+    "Country": "Tajikistan",
+    "id": "TJ",
+    "Male Percent": "5.3",
+    "Male Num": "1266",
+    "Female Percent": "2.6",
+    "Female Num": "453"
+  },
+  {
+    "Country": "Turkmenistan",
+    "id": "TM",
+    "Male Percent": "12.3",
+    "Male Num": "2301",
+    "Female Percent": "4.8",
+    "Female Num": "682"
+  },
+  {
+    "Country": "Timor-Leste",
+    "id": "TL",
+    "Male Percent": "17.600000000000001",
+    "Male Num": "509",
+    "Female Percent": "8.6999999999999993",
+    "Female Num": "230"
+  },
+  {
+    "Country": "Tonga",
+    "id": "TO",
+    "Male Percent": "22.7",
+    "Male Num": "90",
+    "Female Percent": "10.9",
+    "Female Num": "41"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "id": "TT",
+    "Male Percent": "12.5",
+    "Male Num": "789",
+    "Female Percent": "4.5",
+    "Female Num": "211"
+  },
+  {
+    "Country": "Tunisia",
+    "id": "TN",
+    "Male Percent": "24.9",
+    "Male Num": "8906",
+    "Female Percent": "8.1",
+    "Female Num": "2170"
+  },
+  {
+    "Country": "Turkey",
+    "id": "TR",
+    "Male Percent": "26.1",
+    "Male Num": "52957",
+    "Female Percent": "7.6",
+    "Female Num": "12383"
+  },
+  {
+    "Country": "Tuvalu",
+    "id": "TV",
+    "Male Percent": "",
+    "Male Num": "",
+    "Female Percent": "",
+    "Female Num": ""
+  },
+  {
+    "Country": "Tanzania",
+    "id": "TJ",
+    "Male Percent": "6.1",
+    "Male Num": "12719",
+    "Female Percent": "2.5",
+    "Female Num": "4509"
+  },
+  {
+    "Country": "Uganda",
+    "id": "UG",
+    "Male Percent": "4.3",
+    "Male Num": "7095",
+    "Female Percent": "2.6",
+    "Female Num": "3542"
+  },
+  {
+    "Country": "Ukraine",
+    "id": "UA",
+    "Male Percent": "24.1",
+    "Male Num": "78872",
+    "Female Percent": "5.2",
+    "Female Num": "17616"
+  },
+  {
+    "Country": "Uruguay",
+    "id": "UY",
+    "Male Percent": "22.1",
+    "Male Num": "3711",
+    "Female Percent": "8.6",
+    "Female Num": "1406"
+  },
+  {
+    "Country": "United States of America",
+    "id": "US",
+    "Male Percent": "19.3",
+    "Male Num": "270802",
+    "Female Percent": "16.2",
+    "Female Num": "221636"
+  },
+  {
+    "Country": "Uzbekistan",
+    "id": "UZ",
+    "Male Percent": "13",
+    "Male Num": "14417",
+    "Female Percent": "4.5999999999999996",
+    "Female Num": "4272"
+  },
+  {
+    "Country": "St. Vincent and the Grenadines",
+    "id": "LK",
+    "Male Percent": "9.1999999999999993",
+    "Male Num": "47",
+    "Female Percent": "4",
+    "Female Num": "16"
+  },
+  {
+    "Country": "Venezuela",
+    "id": "VU",
+    "Male Percent": "11.1",
+    "Male Num": "10838",
+    "Female Percent": "10.1",
+    "Female Num": "6458"
+  },
+  {
+    "Country": "Viet Nam",
+    "id": "VN",
+    "Male Percent": "26.1",
+    "Male Num": "88793",
+    "Female Percent": "14.1",
+    "Female Num": "45561"
+  },
+  {
+    "Country": "Vanuatu",
+    "id": "VU",
+    "Male Percent": "17.8",
+    "Male Num": "225",
+    "Female Percent": "7.3",
+    "Female Num": "77"
+  },
+  {
+    "Country": "Samoa",
+    "id": "WS",
+    "Male Percent": "18.2",
+    "Male Num": "113",
+    "Female Percent": "9.9",
+    "Female Num": "57"
+  },
+  {
+    "Country": "Yemen",
+    "id": "YE",
+    "Male Percent": "10",
+    "Male Num": "8749",
+    "Female Percent": "7.7",
+    "Female Num": "5750"
+  },
+  {
+    "Country": "South Africa",
+    "id": "ZA",
+    "Male Percent": "10.1",
+    "Male Num": "28658",
+    "Female Percent": "5.4",
+    "Female Num": "13523"
+  },
+  {
+    "Country": "Zambia",
+    "id": "ZM",
+    "Male Percent": "6.6",
+    "Male Num": "5575",
+    "Female Percent": "3.6",
+    "Female Num": "2372"
+  },
+  {
+    "Country": "Zimbabwe",
+    "id": "ZW",
+    "Male Percent": "7.8",
+    "Male Num": "6101",
+    "Female Percent": "3.4",
+    "Female Num": "2271"
+  }
+]
