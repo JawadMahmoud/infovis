@@ -21,19 +21,21 @@
 
 
   <div class="btn-group">
-    <button type="button" class="btn btn-primary">government</button>
-    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-      <span class="caret"></span>
-    </button>
-    <ul class="dropdown-menu" role="menu">
-      <button type="button" onclick="government('2014')" class="btn btn-primary">2014</button>
-      <button type="button" onclick="government('2008')" class="btn btn-primary">2008</button>
-        <button type="button" onclick="governmentComp('2014')" class="btn btn-primary">Compliance in 2014</button>
-        <button type="button" onclick="governmentComp('2010')" class="btn btn-primary">Compliance in 2010</button>
-    </ul>
-  </div>
-</div>
-      <div class="btn-group">
+        <button type="button" class="btn btn-primary">government</button>
+        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+        <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+        <button type="button" onclick="government('2014')" class="btn btn-primary">2014</button>
+        <button type="button" onclick="government('2008')" class="btn btn-primary">2008</button>
+            <button type="button" onclick="governmentComp('2014')" class="btn btn-primary">Compliance in 2014</button>
+         <button type="button" onclick="governmentComp('2010')" class="btn btn-primary">Compliance in 2010</button>
+        </ul>
+        </div>
+
+
+
+    <div class="btn-group">
     <button type="button" class="btn btn-primary">advertisers</button>
     <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
       <span class="caret"></span>
@@ -42,13 +44,23 @@
       <button type="button" onclick="advertisers('2014')" class="btn btn-secondary">2014</button>
         <button type="button" onclick="advertisers('2007')" class="btn btn-secondary">2007</button>
     </ul>
-  </div>
-</div>
+    </div>
+
+
 
     <figure class="highcharts-figure">
 
     <div id="container2"></div>
-        <button type="button" onclick="solidgauge()" class="btn btn-secondary">gauge</button>
+     <div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown button
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" onclick="solidgauge('Argentina')">Argentina</a>
+    <a class="dropdown-item" onclick="solidgauge('United States of America')">United States of America</a>
+    <a class="dropdown-item" onclick="solidgauge('United Kingdom')">United Kingdom</a>
+  </div>
+</div>
     </figure>
 	<div id="container"></div>
 
