@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5a8ea1d-6639-4b55-9e66-d68b31cc5fba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py_data_formation/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_data_formation/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +26,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="csv" value="7" />
+          <entry key="csv" value="10" />
           <entry key="htm" value="2" />
           <entry key="html" value="1" />
           <entry key="js" value="3" />
@@ -37,7 +37,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="CSV" value="7" />
+          <entry key="CSV" value="10" />
           <entry key="HTML" value="3" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="3" />
@@ -46,20 +46,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="7" />
+          <entry key="css" value="10" />
           <entry key="csv" value="1" />
-          <entry key="html" value="198" />
-          <entry key="js" value="216" />
-          <entry key="py" value="153" />
+          <entry key="html" value="267" />
+          <entry key="js" value="482" />
+          <entry key="py" value="682" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="7" />
+          <entry key="CSS" value="10" />
           <entry key="CSV" value="1" />
-          <entry key="HTML" value="198" />
-          <entry key="JavaScript" value="216" />
-          <entry key="Python" value="153" />
+          <entry key="HTML" value="267" />
+          <entry key="JavaScript" value="482" />
+          <entry key="Python" value="682" />
         </counts>
       </usages-collector>
     </session>
@@ -69,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+            <state relative-caret-position="328">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -78,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="-82">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -87,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+            <state relative-caret-position="3486">
+              <caret line="313" column="29" selection-start-line="313" selection-start-column="29" selection-end-line="313" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -96,27 +96,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/py_data_formation/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="403">
+              <caret line="184" column="33" selection-start-line="184" selection-start-column="33" selection-end-line="184" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data/ads.csv">
+        <entry file="file://$PROJECT_DIR$/src/data/control.csv">
           <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="120">
+              <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
             </state>
           </provider>
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" rowLines="3" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data/total_ncd_death.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" rowLines="3" />
           </provider>
@@ -125,6 +117,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data/adult_consumption.csv">
           <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data/gov_compliance.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" column="33" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="33" />
+            </state>
+          </provider>
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" rowLines="3" />
           </provider>
@@ -139,9 +143,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/data/total_ncd_death.csv" />
+        <option value="$PROJECT_DIR$/styles/main.css" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/py_data_formation/main.py" />
-        <option value="$PROJECT_DIR$/styles/main.css" />
         <option value="$PROJECT_DIR$/src/index.js" />
       </list>
     </option>
@@ -259,12 +263,12 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -292,22 +296,6 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/control.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-6757">
-          <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/adult_consumption.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data/total_ncd_death.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
@@ -324,31 +312,57 @@
         <state showInfoPanel="true" rowLines="3" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py_data_formation/main.py">
+    <entry file="file://$PROJECT_DIR$/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="-82">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        <state relative-caret-position="328">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/main.css">
+    <entry file="file://$PROJECT_DIR$/src/data/adult_consumption.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py_data_formation/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="403">
+          <caret line="184" column="33" selection-start-line="184" selection-start-column="33" selection-end-line="184" selection-end-column="33" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/gov_compliance.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="33" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/control.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        <state relative-caret-position="3486">
+          <caret line="313" column="29" selection-start-line="313" selection-start-column="29" selection-end-line="313" selection-end-column="29" />
         </state>
       </provider>
     </entry>
