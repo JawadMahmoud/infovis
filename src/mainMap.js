@@ -173,6 +173,10 @@ let createWorldChart = data => {
 
 createWorldChart(mapYears[currentYear]);
 
+$("#heading-chartOne").text(
+  "Prevalence of smoking any tobacco product among persons aged >=15"
+);
+
 // console.log(currentChart);
 
 // $("#switch2015").click(() => {
@@ -201,10 +205,16 @@ createWorldChart(mapYears[currentYear]);
 
 $("#switchUse").click(() => {
   currentType = "Uses";
+  $("#heading-chartOne").text(
+    "Prevalence of smoking any tobacco product among persons aged >=15"
+  );
   createWorldChart(mapYears["2015"]);
 });
 
 $("#switchDeath").click(() => {
   currentType = "Risks";
+  $("#heading-chartOne").text(
+    "Percentage of Mortality attributable to Tobacco"
+  );
   createWorldChart(deathYears["2015"]);
 });

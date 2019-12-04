@@ -13,6 +13,15 @@
   margin: 0 auto;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
+#forward-button.button:hover {
+  color: green !important;
+  box-shadow: inset 0 0 0 2px green;
+}
+
 .highcharts-figure,
 .highcharts-data-table table {
   min-width: 380px;
