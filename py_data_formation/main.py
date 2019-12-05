@@ -59,6 +59,22 @@ series2 = {'series': [{'name': 'Do not allow product placement', 'data' : []},
                      {'name': 'Allow product placement', 'data' : []},
 
                      ]}
+with open('../src/data/adult_consumption.csv') as csv_file:
+    csv_reader = csv.reader(csv_file, delimiter=',')
+    line_count = 0
+    for row in csv_reader:
+        if line_count == 0:
+            #print(f'Column names are {", ".join(row)}')
+            line_count += 1
+        else:
+            #print(f'\t{row[0]}  {row[1]} {row[2]}.')
+
+
+            if row[5] != 'Not available' and row[5] != 'Not applicable' and row[0] in gauge.keys():
+                consumption_c.append(row[0])
+                gauge[row[0]]['prevalance'] = round(float(row[5]))
+
+            line_count += 1
 
 
 with open('../src/data/ads.csv') as csv_file:
@@ -80,6 +96,16 @@ with open('../src/data/ads.csv') as csv_file:
 
             line_count += 1
 
+# print (series2)
+# has_ban =[]
+# no_ban = []
+# for i in series2['series'][0]['data']:
+#     has_ban.append(i)
+# for i in series2['series'][1]['data']:
+#     no_ban.append(i)
+#
+# print (len(has_ban))
+# print (len(no_ban))
 
 for i in series2['series']:
     for j in i['data']:
@@ -157,21 +183,6 @@ with open('../src/data/gov_compliance.csv') as csv_file:
 
             line_count += 1
 
-with open('../src/data/adult_consumption.csv') as csv_file:
-    csv_reader = csv.reader(csv_file, delimiter=',')
-    line_count = 0
-    for row in csv_reader:
-        if line_count == 0:
-            #print(f'Column names are {", ".join(row)}')
-            line_count += 1
-        else:
-            #print(f'\t{row[0]}  {row[1]} {row[2]}.')
-
-
-            if row[5] != 'Not available' and row[5] != 'Not applicable' and row[0] in gauge.keys():
-                gauge[row[0]]['prevalance'] = round(float(row[5]))
-
-            line_count += 1
 
 with open('../src/data/control.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
@@ -186,4 +197,17 @@ with open('../src/data/control.csv') as csv_file:
                 gauge[row[0]]['control'] = row[2]
 
             line_count += 1
-print (gauge)
+# yes_count = 0
+# no_count = 0
+# for elm in gauge.keys():
+#     if gauge[elm]['control'] == 'Yes':
+#         yes_count = yes_count +1
+#     else:
+#         no_count = no_count + 1
+# print (yes_count)
+# print(no_count)
+
+
+
+#
+# print (gauge)
