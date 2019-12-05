@@ -16,45 +16,53 @@
     <link rel="stylesheet" type="text/css" href="../styles/main.css" />
     <link rel="stylesheet" href="assets/css/main.css" />
 
-    <script src="../Highcharts-7.2.1/code/highcharts.js"></script>
-    <script src="../Highcharts-7.2.1/code/highcharts-more.js"></script>
-    <script src="../Highcharts-7.2.1/code/modules/exporting.js"></script>
-    <script src="../Highcharts-7.2.1/code/modules/solid-gauge.js"></script>
-    <script src="../Highcharts-7.2.1/code/modules/export-data.js"></script>
-    <script src="../Highcharts-7.2.1/code/modules/accessibility.js"></script>
+    <script src="https://www.amcharts.com/lib/4/core.js"></script>
+    <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+    <script src="https://www.amcharts.com/lib/4/geodata/worldHigh.js"></script>
+    <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
   </head>
 
   <body>
-
-    <figure class="highcharts-figure">
-
-      <div class="dropdown">
-        <button
-          class="btn btn-secondary dropdown-toggle"
-          type="button"
-          id="dropdownMenuButton"
-          data-toggle="dropdown"
-          aria-haspopup="true"
-          aria-expanded="false"
+    <!-- <div class="dropdown">
+      <button
+        class="btn btn-secondary dropdown-toggle"
+        type="button"
+        id="dropdownMenuButton"
+        data-toggle="dropdown"
+        aria-haspopup="true"
+        aria-expanded="false"
+      >
+        Select Country
+      </button>
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+        <a class="dropdown-item" onclick="guage('Argentina')">Argentina</a>
+        <a class="dropdown-item" onclick="guage('United States of America')"
+          >United States of America</a
         >
-          Select Country
-        </button>
-        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-          <a class="dropdown-item" onclick="solidgauge('Argentina')"
-            >Argentina</a
-          >
-          <a
-            class="dropdown-item"
-            onclick="solidgauge('United States of America')"
-            >United States of America</a
-          >
-          <a class="dropdown-item" onclick="solidgauge('United Kingdom')"
-            >United Kingdom</a
-          >
-        </div>
+        <a class="dropdown-item" onclick="guage('United Kingdom')"
+          >United Kingdom</a
+        >
       </div>
-    </figure>
-    <div id="container"></div>
+    </div> -->
+    <div class="text-center">
+      <input
+        type="text"
+        name="fname"
+        id="guageCountry"
+        style="width: 50%; margin-left: 25%; margin-top: 1%;"
+      /><br />
+      <a href="#" id="searchGuage" class="button" onclick="guage()">Search</a>
+      <br />
+    </div>
+    <!-- Wrapper -->
+    <div id="wrapper" class="text-center">
+      <!-- Banner -->
+      <section id="intro" class="main">
+        <div id="chartdiv"></div>
+      </section>
+    </div>
+
+    <a href="./pageOne.html" id="restart" class="button big">Restart</a>
 
     <script type="text/javascript" src="../src/bubbles.js"></script>
 
